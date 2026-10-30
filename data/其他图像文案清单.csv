@@ -1,0 +1,25 @@
+﻿类别,资源路径,位置,原文,中文,状态,备注
+卡牌,assets/images/phone/quests/card_designer/rank1/cowering_squire.png,标题,Cowering Squire,胆小侍从,隔离渲染已检查，完整任务待验证,与已校对电话任务称呼一致
+卡牌,assets/images/phone/quests/card_designer/rank1/cowering_squire.png,效果,Will return to the owner's hand when attacked,受攻击时返回拥有者手牌,隔离渲染已检查，完整任务待验证,保留卡牌数值100、200和版面
+卡牌,assets/images/phone/quests/card_designer/rank1/jar_of_desire.png,标题,Jar of Desire,欲望之壶,隔离渲染已检查，完整任务待验证,与已校对电话任务称呼一致
+卡牌,assets/images/phone/quests/card_designer/rank1/jar_of_desire.png,效果,Draw 2 cards,抽2张牌,隔离渲染已检查，完整任务待验证,保留数字2和版面
+卡牌,assets/images/phone/quests/card_designer/rank1/brubble.png,标题,Brubble,布拉布尔,隔离渲染已检查，完整任务待验证,与已校对电话任务称呼一致
+卡牌,assets/images/phone/quests/card_designer/rank1/brubble.png,效果,"If destroyed on your opponent's turn, start your next turn with an extra ruby.",若在对手回合被消灭，下回合开始时额外获得一颗红宝石。,隔离渲染已检查，完整任务待验证,保留卡牌数值80、50和版面
+失败画面,assets/images/cutscenes/evaluations/hector/fired/text.png,标题,YOU ARE FIRED,你被解雇了！,隔离渲染已检查，游戏场景待验证,原图为透明图层，须保持尺寸和透明度效果
+疑似旧开场图,assets/images/cutscenes/intro/1/text.png,对白,"Butler! Butler, waar ben je?",管家！管家，你在哪儿？,用途待核查,荷兰语；脚本中未找到静态路径引用，不能据此认定未使用
+疑似旧开场图,assets/images/cutscenes/intro/2/text.png,对白,"Ik sta letterlijk voor uw neus, meneer.",先生，我就站在您眼前。,用途待核查,荷兰语；脚本中未找到静态路径引用，不能据此认定未使用
+疑似旧开场图,assets/images/cutscenes/intro/3/text.png,对白,O ja... mijn ogen zijn niet meer wat ze geweest zijn!,哦，对……我的眼睛不如从前了！,用途待核查,荷兰语；脚本中未找到静态路径引用，不能据此认定未使用
+主菜单,assets/images/screens/menu/options/play.png,选项,NEW GAME / CONTINUE / SANDBOX,开始新游戏 / 继续游戏 / 沙盒模式,隔离游戏画面已检查，完整流程待验证,每个状态帧的图像尺寸、边缘和透明度不变；隔离画面 qa/ui-game-20261030-183307
+画布,assets/images/workshop/canvas/button_done.png,按钮,DONE,完成,隔离游戏画面已检查，完整流程待验证,11个独立动画帧及其按下状态；画布中提交画作；隔离画面 qa/ui-game-20261030-183307
+沙盒,assets/images/workshop/canvas/button_snap.png,按钮,SNAP,拍照,隔离游戏画面已检查，完整流程待验证,对应 Canvas:takePicture，不是吸附功能；隔离画面 qa/ui-game-20261030-183307
+画廊,assets/images/screens/gallery/continue.png,按钮,CONTINUE,继续,已适配，游戏画面待验证,11个独立动画帧及其按下状态
+电话界面疑似旧资源,assets/images/phone/screens/profile/history_button.png,按钮,History,记录,已适配，用途待核查,当前脚本使用 action_button；未确认该旧贴图是否仍被加载
+电话界面疑似旧资源,assets/images/phone/screens/quest/picture_button.png,按钮,Picture,图片,已适配，用途待核查,保留相机图标；当前脚本使用 quest/button
+画册,assets/images/paintings/1/pamphlet.png,标题,Absolutely Authentic Art Auctions,绝对真迹 艺术拍卖行,隔离游戏画面已检查，完整流程待验证,保留画册和动态画作、插画区域；此文字为店名；隔离画面 qa/ui-game-20261030-183307
+画册,assets/images/paintings/2/pamphlet.png,标题,Assuredly Authentic Art Auctions,保证真迹 艺术拍卖行,已适配，游戏画面待验证,保留画册和动态画作、插画区域；此文字为店名
+试玩结束页,assets/images/workshop/notes/button_steam.png,按钮,Wishlist on STEAM,加入愿望单 STEAM,隔离游戏画面已检查，完整流程待验证,保留Steam名称、标志与点击区域；隔离画面 qa/ui-game-20261030-183307
+试玩结束页,assets/images/workshop/notes/newspaper_end.png,便签,Don't forget to,别忘了,隔离游戏画面已检查，完整流程待验证,与Steam愿望单按钮连读；隔离画面 qa/ui-game-20261030-183307
+试玩结束页,assets/images/workshop/notes/newspaper_end.png,便签,"Stay updated, give feedback, share ideas on:",关注动态、反馈与交流：,隔离游戏画面已检查，完整流程待验证,社交账号图标和点击区域保留；隔离画面 qa/ui-game-20261030-183307
+试玩结束页,assets/images/workshop/notes/newspaper_end.png,便签,Follow @Voskip On,关注 @Voskip,隔离游戏画面已检查，完整流程待验证,保留开发者账号与社交图标；隔离画面 qa/ui-game-20261030-183307
+画册疑似旧资源,assets/images/workshop/catalog/catalog.png,插图上的旧画名,Food / Hood / Mermaid / Cowboys / Medusa,食物 / 兜帽 / 美人鱼 / 牛仔 / 美杜莎,用途待核查,当前画册读取 paintings/<chapter>/pamphlet；未确认此旧图是否仍被加载
+社交疑似旧资源,assets/images/workshop/notes/discord.png,便签,Stay updated. Give feedback. Share ideas on: Discord,关注动态、反馈与交流：Discord,用途待核查,当前结束页使用 newspaper_end 和 button_discord；未确认旧贴图是否仍被加载

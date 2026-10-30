@@ -1,0 +1,8 @@
+# Local builds, gameplay captures, and installed-game backups stay off GitHub.
+/dist/
+/qa/
+/build/
+__pycache__/
+*.py[cod]
+*.spec
+*.zh-backup

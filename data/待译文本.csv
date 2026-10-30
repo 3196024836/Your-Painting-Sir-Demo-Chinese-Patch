@@ -1,0 +1,1113 @@
+﻿path,line,column,speaker,field,original,translation,status,note
+data/dialog/cutscene/hector/chapter1.lua,8,16,hector,text,"[sfx=objects/bell]Butler! Butler, where are you?!",[sfx=objects/bell]管家！管家，你在哪儿？！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter1.lua,14,16,butler,text,"Sir, I'm literally standing right in front of you.",先生，我就站在您面前。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter1.lua,19,16,hector,text,"Oh, right, I see now. [hl]My eyes aren't what they used to be.[/hl]",哦，对，我看到了。[hl]我的眼睛不如以前好使了。[/hl],已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter1.lua,24,16,butler,text,"How can I help you, sir?",有什么吩咐，先生？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter1.lua,30,9,hector,text,[hl]Tomorrow's auction[/hl] will feature some of the most prestigious paintings. I want you to buy them for me!,[hl]明天的拍卖会[/hl]上会有几幅名画。我想让你替我买下来！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter1.lua,36,9,hector,text,The [hl]five paintings[/hl] you need to buy are in this catalog right here. And remember: no price is too high!,你要买的[hl]五幅画[/hl]都在这本画册里。记住：多少钱都不要紧！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter1.lua,41,16,butler,text,"Of course, sir. 
+I will be there, [hl]tomorrow morning[/hl].",当然，先生。[hl]明天早上[/hl]我会准时到场。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,9,16,hector,text,Hector! Hector!,赫克托！赫克托！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,14,16,hector,text,"Oh wait, that's me...",哦，等等，那是我自己……,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,20,16,hector,text,"[sfx=objects/bell]Butler! Butler, I need you for something!",[sfx=objects/bell]管家！管家，我有事找你！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,26,16,butler,text,"Yes, sir. How can I be of assistance?",在，先生。有什么吩咐？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,31,16,hector,text,"Look, there's another auction, with [hl]five more paintings[/hl] I want you to get for me.",听着，又有一场拍卖会。我想让你再替我买[hl]五幅画[/hl]。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,36,16,butler,text,"Ah yes. Of course, sir. This time I will make sure to be there on time.",啊，好的。当然，先生。这次我一定准时到。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,41,9,hector,text,'On time?' What do you mean by that?,“准时”？你这是什么意思？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,48,9,butler,text,"Oh... I mean... That I was [b]almost[/b] too late last time. But I wasn't, of course.",哦……我是说……上次我[b]差点[/b]就迟到了。不过我当然没迟到。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,55,9,butler,text,"I just.. uhm... had some car issues, is all.",我只是……呃……车子出了点问题，仅此而已。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,62,9,hector,text,"Ah, is that so? Well why don't you take[emotion=key] my car then?[sfx=cutscenes/chapter2/2/shine] I haven't used it in years anyway.",哦，是这样吗？那你为什么不用[emotion=key]我的车呢？[sfx=cutscenes/chapter2/2/shine]反正我已经好几年没开过了。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,68,9,butler,text,"Ah thank you, sir. You are too kind.",啊，谢谢您，先生。您真是太好了。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,74,9,hector,text,Tell that to the ethics committee.,你去跟伦理委员会说吧。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/chapter2.lua,81,9,butler,text,"[emotion=hector:neutral]Yes, I will tell them again, sir.",[emotion=hector:neutral]好的，先生。我会再跟他们说一遍。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_cowboys.lua,8,16,hector,text,Is this [b]Quick Draw?![/b] Such an epic painting. It's as if I'm standing right there.,这是[b]《快枪决胜》？！[/b]真是一幅震撼人心的画，我仿佛身临其境。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_cowboys.lua,13,16,butler,text,"Yes, absolute cinema, sir. I'll go grab the next painting for you.",是的，真是精彩绝伦，先生。我这就去给您拿下一幅画。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_food.lua,9,9,hector,text,"Ah yes, [b]Empty Breakfast[/b]!
+How fascinating, don't you think so?
+It makes me hungry just looking at it.",啊，是[b]《无人的早餐》[/b]！多么有意思，你说是不是？光看着它我就饿了。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_food.lua,14,16,butler,text,"Yes, very fascinating, sir. Let me get the other paintings for you.",是的，非常有意思，先生。我去给您拿其他的画。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_hood.lua,8,16,hector,text,The one and only [b]Girl in the Woods[/b]! A lovely painting for a lovely tale.,独一无二的[b]《林中少女》[/b]！好故事配好画。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_hood.lua,13,16,hector,text,"I love the part where they rip the wolf's stomach open... Oh, hope I didn't spoil it for you.",我最喜欢他们剖开狼肚子的那段……哦，希望我没给你剧透。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_hood.lua,18,16,butler,text,"Definitely not, sir. Now let me spoil you with another painting.",当然没有，先生。接下来让我再拿一幅画宠宠您吧。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_medusa.lua,9,9,hector,text,Wow! In real life [b]Medusa's Demise[/b] looks even more amazing! I love how mythologically accurate it is!,哇！[b]《美杜莎之死》[/b]的真迹更令人惊叹！我就喜欢它如此忠于神话！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_medusa.lua,14,16,butler,text,"Very accurate, sir. I'll be right back with another painting.",的确很忠实，先生。我马上拿另一幅画过来。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_mermaid.lua,9,9,hector,text,"Wow, [b]The Lonely Mermaid[/b]! Not so lonely anymore now that she is in my possession.",哇，[b]《孤独的人鱼》[/b]！现在她归我所有，就不再孤独了。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_mermaid.lua,15,9,hector,text,"If only mermaids were a real thing... I would buy one in an instant! Haha, only kidding of course. Unless...",要是真有人鱼就好了……我马上就会买一条！哈哈，当然是开玩笑的。除非……,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/correct_mermaid.lua,20,16,butler,text,"Yes, if only, sir. Let me get the next painting.",是啊，要是真有就好了，先生。我去拿下一幅画。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,9,9,hector,text,"Not so fast, Butler...",慢着，管家……,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,16,9,butler,text,S-sir...?,先、先生……？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,31,9,hector,text,I have a surprise for you!,我给你准备了个惊喜！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,37,9,butler,text,"A surprise...? What is it, sir?",惊喜……？是什么，先生？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,44,9,hector,text,"Well, I know how much you love the beach...",我知道你有多喜欢海边……,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,64,9,butler,text,[.3][sound=excited]Are we finally going?!,[.3][sound=excited]我们终于要去了吗？！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,71,9,hector,text,Definitely not! You know I don't like sand.,当然不去！你知道我不喜欢沙子。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,90,9,butler,text,[.3][sound=disappointed]Oh... But then what is the surprise?,[.3][sound=disappointed]哦……那惊喜是什么？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,97,9,hector,text,"This! A new mobile phone, just for you.",这个！一部新手机，专门给你的。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,104,9,butler,text,"That... that's very generous, sir. But what does that have to do with the beach?",这……您太慷慨了，先生。可这跟海边有什么关系？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,110,9,hector,text,"Ghehe, you'll see soon enough.",嘿嘿，很快你就知道了。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,117,9,hector,text,"I bought it for myself, but I don't understand all that new technology, so you can have it.",我是买给自己用的，可我搞不懂这些新科技，所以给你吧。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,123,9,butler,text,"My first phone with a touchscreen. That is very kind of you, sir.",这是我第一部触屏手机。您真是太好了，先生。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,129,9,hector,text,"The phone's cost will be deducted from your salary, obviously.",手机的钱当然会从你的工资里扣。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/phone.lua,135,9,butler,text,"Understandable, sir. Now, let me get that next painting for you.",可以理解，先生。现在我去给您拿下一幅画。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,9,9,hector,text,Wait a minute...,等一下……,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,16,9,butler,text,"What... what is it, sir?",怎……怎么了，先生？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,29,9,hector,text,"You already showed me all five of my new paintings, [function=music]you fool!",你已经把我的五幅新画都给我看过了，[function=music]你这个笨蛋！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,35,9,butler,text,"Oh, haha. Right. Of course!",哦，哈哈。对，当然！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,42,9,hector,text,"Thank you, Butler. I can always count on you. I'm going to give you a raise!",谢谢你，管家。我总能指望你。我要给你加薪！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,48,9,butler,text,"You are too generous, sir. Thank you.",您太慷慨了，先生。谢谢您。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,55,9,hector,text,"Hmm, you're right. Never mind that raise.",嗯，你说得对。加薪的事就算了。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/victory.lua,61,9,hector,text,"Now, hang up these paintings for me, so that I can properly admire them once more.",现在把这些画给我挂起来，好让我再仔细欣赏一遍。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong1.lua,9,9,hector,text,"Is this some kind of prank? You know I don't like jokes, Butler.",这是在恶作剧吗？你知道我不喜欢玩笑，管家。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong1.lua,16,9,butler,text,"Oh... right. My apologies, Sir.",哦……是的。非常抱歉，先生。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong1.lua,21,16,hector,text,"Get this trash out of my sight, and bring me my real paintings!",把这堆垃圾从我眼前拿走，把我的真画拿来！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong1.lua,28,9,butler,text,"Yes, sir. Of course, sir.",是，先生。遵命，先生。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong2.lua,9,9,hector,text,What is this? Where is my painting?,这是什么？我的画呢？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong2.lua,16,9,butler,text,"Oh... sorry, Sir. I was just...",哦……对不起，先生。我只是……,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong2.lua,21,16,hector,text,I don't care! Just bring me my paintings! Now!,我不管！快把我的画拿来！现在就去！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong2.lua,28,9,butler,text,"Yes, sir. Of course, sir.",是，先生。遵命，先生。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong3.lua,9,9,hector,text,What are these newspaper cutouts? Where is my painting?,这些报纸剪片是什么？我的画呢？,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong3.lua,16,9,butler,text,"Oh, you're right. My mistake, Sir.",哦，您说得对。是我的错，先生。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong3.lua,21,16,hector,text,You blind fool! Bring me my real paintings!,你这个瞎了眼的蠢货！把我的真画拿来！,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/cutscene/hector/wrong3.lua,28,9,butler,text,"Yes, sir. Of course, sir.",是，先生。遵命，先生。,已校对,已逐条对照原文校对人物语气和标记；游戏内排版尚待验收。
+data/dialog/phone/card_designer/no_quests.lua,5,9,card_designer,text,"Hey, I appreciate the call, but I don't have any more cards for you to design at the moment.",嘿，谢谢你打来，不过我现在没有更多卡牌需要设计了。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/no_quests.lua,10,9,butler,text,"Oh, okay. Just checking, I guess.",哦，好的。我只是来问问。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/no_quests.lua,15,9,card_designer,text,"Don't worry, I'll let you know when I need your talents again.",别担心，需要你的才华时我会通知你的。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,5,9,card_designer,text,"Hey, I received your design.",嘿，我收到你的设计了。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,10,9,butler,text,What do you think?,你觉得怎么样？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,15,9,card_designer,text,"It's not that I don't like it, but I feel like you could do better?",倒不是说我不喜欢，不过我觉得你能做得更好？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,21,9,butler,text,You think so?,你这么认为吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,27,9,card_designer,text,"For sure! Try to be [hl]a bit more creative[/hl], or [hl]put in some more effort[/hl]. I want to get the most out of your talent.",当然！试着[hl]再有创意一点[/hl]，或者[hl]再多花些心思[/hl]。我想让你的才华得到充分发挥。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,33,9,butler,text,"Alright, I'll give it a try.",好，我试试看。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/incorrect.lua,39,9,card_designer,text,Awesome! You're doing great so far. Just keep going.,太棒了！目前你做得很好，继续加油。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,6,9,card_designer,text,Hello! [.5]Wait... are you a game developer as well?,你好！[.5]等等……你也是游戏开发者吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,11,9,butler,text,"No, actually. I'm a butler.",不，其实我是管家。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,17,9,card_designer,text,"Oh, cool. Sorry, something about your physique just made me think of you as game developer.",哦，真酷。抱歉，你的体格不知怎么让我想到了游戏开发者。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,22,9,card_designer,text,"Anyway, thank you for calling. My name is [hl]Danny Hares[/hl]. You want to help design my game?",总之，谢谢你打来。我叫[hl]丹尼·黑尔斯[/hl]。你想帮我设计游戏吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,30,9,butler,text,"To be honest, I called because I was curious, but I'm not really good with all that game stuff. So I'm not sure of how much help I can be.",说实话，我是因为好奇才打来的，但我不太擅长游戏那一套，所以不知道能帮上多少忙。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,37,9,card_designer,text,"Brother, it's not about ""being good"". It's about having a passion. To enjoy the process, and to bless others with your craft.",兄弟，关键不是“擅长”，而是热爱：享受创作的过程，用你的作品为别人带去快乐。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,43,9,card_designer,text,"Wouldn't you agree that a butler who doesn't enjoy his work is a bad butler, no matter how well he knows his etiquette?",一个管家如果不喜欢自己的工作，无论他多懂礼仪，都不是好管家。你同意吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,49,9,butler,text,Wow! You're so right!,哇！你说得太对了！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,55,9,card_designer,text,"So don't worry about that. Look, here's the deal. I'm working on a trading card game. Ever played one of those?",所以别担心。事情是这样的：我在做一款集换式卡牌游戏。你玩过这类游戏吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,61,9,butler,text,"Well, I don't mean to brag, but back in high school they called me Lord of the Cards.",我可不是吹牛，高中时他们都叫我“卡牌之王”。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,67,9,butler,text,"Though that might have been an insult, now that I think about it...",不过现在想来，那也可能是在损我……,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,72,9,card_designer,text,Who cares if they meant to insult you? Sounds to me you had fun playing a game you were passionate about. [emotion=wink]Take pride in that title.,管他们是不是在损你？在我看来，你就是享受着自己热爱的游戏。[emotion=wink]为这个称号感到骄傲吧。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,78,9,butler,text,Thank you...,谢谢……,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,84,9,card_designer,text,"So this card game I'm making, it's called [hl]Era of Might[/hl]. I came up with this unique battle system I'm really excited about.",我做的这款卡牌游戏叫[hl]《力量纪元》[/hl]。我想出了一个独特的战斗系统，特别期待。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,90,9,card_designer,text,"There will be all kinds of cards with special abilities, and all those cards will need some cool artwork. That's where I need your help.",游戏里有各种拥有特殊能力的卡牌，它们都需要酷炫的插画。我正需要你帮这个忙。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,99,9,butler,text,The cool artwork is definitely what sells the game! But don't you have an artist on your team to draw that for you?,酷炫的插画绝对是游戏的卖点！但你的团队里没有画师来画吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,105,9,card_designer,text,"I'm a solo developer, so normally I would draw it myself.",我是独立开发者，所以通常会自己画。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,111,9,card_designer,text,"For this game, however, I'm looking for a unique art style from someone who can innovate through their inexperience.",不过这一次，我想找一位能因经验不足而另辟蹊径的人，带来独特的画风。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,117,9,card_designer,text,"In a world where the artificial rises, we must counter it with creativity and love.",在人工之物日益盛行的世界里，我们必须用创造力和爱来回应。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,123,9,card_designer,text,"And besides, delegating the workload gives time for my body to take the proper rest it needs. It's important to stay healthy, [emotion=wink]you know?",再说，把工作分出去也能让我有时间充分休息。保持健康很重要，[emotion=wink]对吧？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,132,9,butler,text,"I agree![.3] [emotion=think]So these cards, what are they like?",我同意！[.3] [emotion=think]那么，这些卡牌是什么样的？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,138,9,card_designer,text,Let's start with the Rank 1 cards. These are the common types that only cost a single crystal to summon.,先从1级卡牌开始吧。这类普通卡牌只要一颗水晶就能召唤。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,143,9,card_designer,text,"How about the hero card called [hl]Cowering Squire[/hl].[image=card_designer/rank1/cowering_squire] When attacked, it will flee, returning to the owner's hand.",先试试名为[hl]胆小侍从[/hl]的英雄卡吧。[image=card_designer/rank1/cowering_squire]受到攻击时，他会逃回拥有者的手牌。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,148,9,card_designer,text,"Even though it's a Rank 1 card, it actually has some really powerful synergy with some other cards.",虽然是1级卡牌，但它和某些卡牌搭配起来效果非常强大。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,155,9,butler,text,Interesting. And what should he look like?,有意思。他应该长什么样？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,161,9,card_designer,text,What they look like is totally up to you. I'm giving you [hl]full creative freedom[/hl] with designing my cards.,他们长什么样完全由你决定。设计我的卡牌时，你拥有[hl]充分的创作自由[/hl]。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,166,9,card_designer,text,"All I ask is that you try to enjoy the process, and [hl]put in some proper effort[/hl]. If you do that, [emotion=wink]I'm sure I'll love it.",我只希望你能享受这个过程，并且[hl]认真投入[/hl]。只要做到这些，[emotion=wink]我相信我一定会喜欢的。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,171,9,butler,text,"Okay, I will give it a try.",好，我试试看。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/intro.lua,178,9,card_designer,text,Awesome! I'm excited to see what you'll make. [emotion=neutral]I'm gonna go support other developers now. Talk to you later.,太棒了！我很期待你的作品。[emotion=neutral]我要去支持其他开发者了，回头聊。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,5,9,card_designer,text,"Hey, man! I received your picture.",嘿，朋友！我收到你的图片了。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,10,9,butler,text,"So, what do you think?",你觉得怎么样？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,15,9,card_designer,text,Honestly? [.4][emotion=thumbs_up]I love it!,说真的？[.4][emotion=thumbs_up]我太喜欢了！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,20,9,butler,text,Really? You do?,真的吗？你喜欢？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,26,9,card_designer,text,For sure! Such a cool and unique design for Cowering Squire. I would've never come up with that.,当然！胆小侍从的设计又酷又独特，我绝对想不出来。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,31,9,card_designer,text,You really convinced me I made a good decision going with this approach. [emotion=wink]Or maybe I was just lucky finding a talent like you.,你让我确信，用这种方式是个好决定。[emotion=wink]或者说，我很幸运找到了你这样的人才。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,37,9,butler,text,I'm glad you like it!,你喜欢就好！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,44,9,card_designer,text,"(Too bad this is only a demo, else I would've sent him a copy of the card.)",（可惜这只是试玩版，不然我就送他一张卡牌了。）,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,50,9,card_designer,text,"If you're up for it, I got another card for you to design.",如果你愿意，我还有一张卡牌想请你设计。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,55,9,butler,text,Sure!,当然！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,60,9,card_designer,text,"Cool. So this time we're talking about a wisdom card. You can play those for an effect, but they won't stay on the board.",好。这次是一张智慧卡。打出后会产生效果，但不会留在场上。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,65,9,card_designer,text,"This spell card is called [hl]Jar of Desire[/hl].[image=card_designer/rank1/jar_of_desire] When played, the player gets to draw two more cards from their deck.",这张法术卡叫[hl]欲望之壶[/hl]。[image=card_designer/rank1/jar_of_desire]打出时，玩家可以从牌库再抽两张牌。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,74,9,butler,text,"Wow, that sounds really good! [image=false][emotion=think]In fact, it might be too good. I don't see why you wouldn't have this in your deck?",哇，听起来很厉害！[image=false][emotion=think]实际上，可能太厉害了。我想不出有什么理由不把它放进牌组？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,80,9,card_designer,text,That's a great observation! [emotion=wink]I should be careful not to underestimate the Lord of the Cards.,观察得很敏锐！[emotion=wink]我可不能小瞧了卡牌之王。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,86,9,card_designer,text,"One thing I forgot to mention is that Jar of Desire is a 'void card', meaning it's a card you play as your first and only action.",我忘了说，欲望之壶是一张“虚空卡”，也就是说，打出它必须是你回合里的第一个，也是唯一一个行动。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,92,9,card_designer,text,"Void cards can be really powerful, but you need to be ready to offer up your turn for it.",虚空卡可能非常强大，但你得准备好为它牺牲一个回合。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,97,9,butler,text,"I see. Yes, that certainly balances things. You might gain two cards, but lose the advantage on the board.",明白了。这样确实能平衡它：你可能多拿两张牌，却会失去场上的优势。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,103,9,card_designer,text,"Exactly! I'm glad you agree. So, what do you think, wanna give it a try?",没错！很高兴你也这么想。那么，你愿意试试看吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,109,9,butler,text,"Yes, I'll have a go at it!",好，我来试试！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved1.lua,115,9,card_designer,text,Awesome! I'm excited to see what you'll make. Talk to you later!,太棒了！我很期待你的作品。回头聊！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,5,9,card_designer,text,"Hey, dude! I received your design.",嘿，朋友！我收到你的设计了。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,10,9,butler,text,Do you think it's good?,你觉得好吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,16,9,card_designer,text,"I think it's awesome! Such a great design for Jar of Desire, which lets you draw two cards from your deck.",我觉得太棒了！欲望之壶的设计真出色，这张卡可以让你从牌库抽两张牌。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,22,9,butler,text,Thank you!,谢谢！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,28,9,card_designer,text,"Hey so, I don't want to push you too hard, but I got one more card for you to design.",嘿，我不想给你太大压力，不过还有最后一张卡想请你设计。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,34,9,card_designer,text,"Feel free to tell me if you're not up for it, though. I've taken enough of your time already.",如果你不想做，尽管告诉我。我已经占用了你不少时间。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,40,9,butler,text,"Thanks, but no it's okay. I'm actually having a lot of fun with this!",谢谢，不过没关系。其实我玩得很开心！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,46,9,card_designer,text,"And I can see that back in your designs! [emotion=neutral]Cool, then finally we have a monster card.",从你的设计里也能看出来！[emotion=neutral]好，最后是一张怪兽卡。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,51,9,card_designer,text,"Hero cards require pearls, and monster cards require rubies. Each turn both crystal pools increase by one.",英雄卡需要珍珠，怪兽卡需要红宝石。每一回合，两种水晶都会各增加一颗。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,56,9,card_designer,text,"So I have this monster card called [hl]Brubble[/hl]. [image=card_designer/rank1/brubble]If it dies on your opponent's turn, you'll start your next turn with an extra ruby.",我有一张叫[hl]布拉布尔[/hl]的怪兽卡。[image=card_designer/rank1/brubble]如果它在对手的回合死亡，你的下个回合开始时会额外获得一颗红宝石。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,65,9,butler,text,"Sounds interesting, [image=false]but what is a 'Brubble' though?",听起来有意思，[image=false]不过“布拉布尔”是什么？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,71,9,card_designer,text,It's just a name I made up. I'd like you to design a creature that comes to your mind when you hear the word 'Brubble'.,这个名字是我编的。我希望你听到“布拉布尔”时，能凭自己的想象设计一种生物。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,76,9,card_designer,text,"And don't forget its effect, you could incorporate that as well. But again, [emotion=wink]you have full creative freedom.",别忘了它的效果，也可以融入设计里。不过还是那句话，[emotion=wink]你有充分的创作自由。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,82,9,butler,text,'Brubble'...? [emotion=smug]Yeah I think I have an idea!,“布拉布尔”……？[emotion=smug]嗯，我想我有主意了！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved2.lua,88,9,card_designer,text,Cool! Let me know when it's done. See ya!,太好了！完成后告诉我。再见！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,5,9,card_designer,text,"Hey, man! I saw your design for Brubble.",嘿，朋友！我看到你的布拉布尔设计了。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,10,9,butler,text,Do you like it?,你喜欢吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,15,9,card_designer,text,"Like it? Bro, [emotion=thumbs_up]I love it!",喜欢？兄弟，[emotion=thumbs_up]我爱死了！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,21,9,butler,text,Awesome!,太棒了！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,27,9,card_designer,text,This creature totally looks like a 'Brubble'! You did a great job on that.,这生物一看就像“布拉布尔”！你做得太好了。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,33,9,butler,text,Thank you!,谢谢！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,39,9,card_designer,text,"No, I should be thanking you! You've been a great help! Can I contact you when I need more artwork for my cards?",不，我才应该感谢你！你帮了我大忙！以后我需要更多卡牌插画时，能联系你吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,44,9,butler,text,Any time!,随时都可以！,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,49,9,card_designer,text,"I appreciate that. And you know what? I have something for you, as a thank you.",谢谢你。对了，为了表示感谢，我有东西要送给你。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,55,9,butler,text,Oh? What is it?,哦？是什么？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,60,9,card_designer,text,A small memory game I made for BubbleOS called [hl]Forbidden Fruit[/hl].,一款我为BubbleOS做的记忆小游戏，叫作[hl]禁忌之果[/hl]。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,65,9,card_designer,text,"I sent it to you, so you should be able to find it on your home screen.",我已经发给你了，你应该能在主屏幕上找到。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,71,9,butler,text,"Sounds fun! Thank you, I'll check it out.",听起来很好玩！谢谢，我会去看看的。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/rank1/solved3.lua,76,9,card_designer,text,"Awesome! Thanks again, and have a good day.",太好了！再次感谢，祝你今天愉快。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,5,9,card_designer,text,"Hey, having trouble with the artwork?",嘿，插画遇到困难了吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,11,9,butler,text,I'm just not sure I can do this. I'm too worried that I'll ruin your card game. ,我只是不确定自己能不能做到。我太担心会毁了你的卡牌游戏。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,16,9,card_designer,text,I hear you. Self-doubt is a creator's worst enemy.,我明白。自我怀疑是创作者最大的敌人。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,21,9,card_designer,text,"But listen, instead of focusing on the [hl]quality[/hl] of your art, focus on the fact that you are [hl]making[/hl] art.",但听我说，与其关注作品的[hl]质量[/hl]，不如关注你正在[hl]创作[/hl]这件事。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,26,9,card_designer,text,"No matter the quality of your output, it will be but a fraction of the value of you putting in the effort to make something.",不管作品的质量如何，它的价值都只是你付出努力去创作这一行为的一小部分。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,31,9,card_designer,text,"It is not your skill, but your decision to express yourself, which makes you an artist. Does that make sense?",让你成为艺术家的不是技巧，而是你选择表达自己。能理解吗？,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,36,9,butler,text,It does. Thank you.,能。谢谢你。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/card_designer/tip.lua,41,9,card_designer,text,You got this.,你能做到的。,已校对,初译；重点复核卡牌效果、术语与游戏画面。；已逐句对照英文校对，卡牌规则及游戏内排版仍待验证
+data/dialog/phone/crab/intro.lua,11,21,,text,"Hello! Welcome to... wait, where are you?
+
+","你好！欢迎来到……等等，你在哪儿？
+
+",已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,11,73,,text,[Click anywhere to continue],【点击任意处继续】,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证 已根据手机助手文本宽度重新核对断行。
+data/dialog/phone/crab/intro.lua,19,16,,text,"Ah, there you are!",啊，你在这儿！,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,22,21,,text,Welcome to BubbleOS! My name is ,欢迎使用BubbleOS！我是,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,22,60,,text,Snippy,斯尼皮,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,22,73,,text, your personal assistant.,，你的私人助手。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,28,24,,text,"Oh, well hello, Snippy. Nice to meet you.",哦，你好，斯尼皮。很高兴认识你。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,34,16,,text,Hahaha! No point in responding to me. I can't hear you.,哈哈！回答也没用，我听不见。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证 已根据手机助手文本宽度重新核对断行。
+data/dialog/phone/crab/intro.lua,40,9,,text,"That's the great thing about Bubble OS! I will never spy on you, or sell your personal data. And I definitely can't detect when you're sleeping! Isn't that amazing?",这就是BubbleOS的好处！我绝不监视你，也不会卖掉你的个人数据，更不可能知道你什么时候睡觉！这不很棒吗？,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证 已根据手机助手文本宽度重新核对断行。
+data/dialog/phone/crab/intro.lua,44,14,,text,"So anyway, before we begin you're required to accept our ",总之，开始之前，你需要接受我们的,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,44,78,,text,Terms of Service,服务条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,44,101,,text,". It's really long and boring, so I suggest you just go ahead and accept it.",。这玩意又臭又长，我建议你直接接受。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,50,24,,text,Accept ToS,接受条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,54,24,,text,Read ToS,阅读条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,63,9,,text,"Hahaha you're funny! But seriously, you don't want to read it right? It's not as if it says that I can track your location at all times.",哈哈哈，你真有趣！但说真的，你不会想读它的，对吧？条款里又没说我可以随时追踪你的位置。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,69,24,,text,Accept ToS,接受条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,73,24,,text,Read ToS,阅读条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,82,9,,text,"Seriously? It's almost as if you don't trust me. I'm gonna be honest with you, that's not a great start to our friendship. Why not just accept it?",认真的？这就好像你不信任我一样。坦白说，我们的友谊开了个不太好的头。为什么不直接接受呢？,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,88,24,,text,Accept ToS,接受条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,92,24,,text,Read ToS,阅读条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,101,14,,text,You seriously want to read that whole thing? According to our data ,你真的想把它读完？根据我们的数据，在读过服务条款的人当中，,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,101,88,,text,98%,98%,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,101,98,,text, of users who read the Terms of Service are a bunch losers. Are you a loser?,都是一群失败者。你也是个失败者吗？,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,107,24,,text,Accept ToS,接受条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,111,24,,text,I'm a loser,我是失败者,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,119,16,,text,"Okay, fine!",好吧，随你！,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,135,16,,text,There you go! Now go ahead and accept the Terms of Service.,看完了吧！现在就接受服务条款吧。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,141,24,,text,Accept ToS,接受条款,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,150,9,,text,"Great! Thank you for accepting! I already feel like we've gotten to know each other better. Or, more specifically, I got to know you a lot better.",太好了！谢谢你接受条款！我已经觉得我们彼此更加了解了。更准确地说，是我更了解你了。,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,154,14,,text,Now you're ready to use this device! ,现在你可以使用这台设备了！,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/crab/intro.lua,154,58,,text,Are you ready to make your first phone call?,准备好打第一通电话了吗？,已校对,初译；需复核选项、换行与手机界面。；已对照英文逐句校对，语音气泡排版和剧情操作仍待验证
+data/dialog/phone/detective/all_quests.lua,6,9,detective,text,"Bonjour. Thank you for calling, mister, but it looks like all the mysteries have been solved.",您好，先生，感谢来电，不过所有的谜案似乎都已经解决了。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/all_quests.lua,11,9,butler,text,Wow! All of them?!,哇！所有的？！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/all_quests.lua,17,9,detective,text,Indeed! A world without mysteries. Now isn't that a mystery in itself?,确实！一个没有谜团的世界。这本身不也是个谜吗？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/all_quests.lua,23,9,butler,text,Hm... But that would mean... So then... Except that... Meaning...,嗯……但那岂不是……这么说……不过……也就是说……,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/all_quests.lua,29,9,butler,text,My head hurts.,我的头好痛。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/all_quests.lua,35,9,detective,text,"Haha! Yes, I'm afraid this last paradoxical mystery will have to remain unsolved.",哈哈！是啊，恐怕这最后一个自相矛盾的谜团只能悬而未决了。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/all_quests.lua,41,9,detective,text,"Farewell, mister.",再见，先生。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/incorrect.lua,6,9,detective,text,"Bonjour, mister. I received your picture.",您好，先生。我收到您的图片了。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/incorrect.lua,11,9,butler,text,"So, what do you think?",您觉得怎么样？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/incorrect.lua,17,9,detective,text,I think[.2].[.2].[.2].[.4] this is not who we are looking for.,我认为[.2].[.2].[.2].[.4]这不是我们要找的人。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/incorrect.lua,23,9,butler,text,Oh... I really thought this would be the pie thief.,哦……我还真以为这就是偷派的小偷。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/incorrect.lua,29,9,detective,text,"A suspicious looking figure, I agree. But the lack of evidence tells me this person is innocent.",我同意，这人看上去很可疑。不过，缺乏证据说明这人是无辜的。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/incorrect.lua,35,9,detective,text,Call me when you have found a new suspect.,找到新的嫌疑人后，请给我打电话。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,6,9,detective,text,Bonjour. How can I help you?,您好。有什么可以帮您？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,11,9,butler,text,I'm calling for-,我是为了——,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,17,9,detective,text,A missing teddy bear? A stolen garden gnome? An unopened bottle of wine gone empty?,丢失的泰迪熊？被偷走的花园小矮人？还是一瓶没开封却被喝空的葡萄酒？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,22,16,detective,text,[hl]Detective Jean-Louis Michel[/hl] is here to solve the case.,[hl]让-路易·米歇尔侦探[/hl]在此为您破案。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,27,9,butler,text,"No, I'm calling because of your ad in the newspaper. You said you needed help?",不是，我是看到您在报纸上的广告打来的。您说您需要帮助？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,33,9,detective,text,"Ah, magnifique. Indeed, there is this particular case where I could use your help.",啊，太好了。确实，有个案子正需要您的帮助。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,39,9,detective,text,"Tell me, monsieur, do you like apple pie?",请问，先生，您喜欢苹果派吗？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,45,9,butler,text,Of course! It's my favorite kind of apple.,当然！那是我最喜欢的一种苹果。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,51,9,detective,text,"Madame Roseline, a lovely old lady, had her renowned homebaked apple pie cooling on the windowsill.",露丝琳女士是一位和蔼的老太太。她把亲手烤制、远近闻名的苹果派放在窗台上晾凉。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,57,9,butler,text,"Ah, how nice.",啊，真不错。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,63,9,detective,text,"It was then that she heard, for a short moment, a [hl]shrill, high-pitched noise[/hl]. Curious, she went outside to see what it was.",就在这时，她短暂地听到一阵[hl]尖锐刺耳的高音[/hl]。她很好奇，便走出去查看。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,69,9,detective,text,"She never found the source of the sound. Confused, she went back inside.",她没能找到声音的来源，只好满腹疑惑地回到屋里。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,75,9,detective,text,"That is when, to her horror, she discovered someone took a piece of her apple pie!",就在那时，她惊恐地发现，有人拿走了一块苹果派！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,81,9,butler,text,The scumbag...,这人渣……,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,87,9,detective,text,"Indeed. We can assume that piece of pie is long gone, but we still must find the perpetrator.",正是。我们可以认为那块派早已不见踪影，但仍必须找出犯人。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,93,9,butler,text,So we're looking for someone who really likes apple pie...?,所以我们要找的是特别喜欢苹果派的人……？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,99,9,detective,text,"Well, monsieur, [emotion=questioning]didn't you just admit to loving apple pie, you thief?",可是，先生，[emotion=questioning]您刚刚不是承认自己喜欢苹果派了吗？好啊，小偷！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,105,9,butler,text,WHAT?!,什么？！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,111,9,detective,text,"Indeed! Since you like apple pie so much, maybe I am on the phone with the pie stealer himself?",没错！既然您这么喜欢苹果派，也许正在和我通电话的就是偷派贼本人？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,117,9,butler,text,No! I would never steal from an old lady!,不是！我绝不会偷老太太的东西！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,123,9,detective,text,"Not from an old lady, but from who would you steal then? Perhaps you were not aware of who baked the apple pie?!",不偷老太太的，那您会偷谁的呢？或许您根本不知道是谁烤的派？！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,129,9,butler,text,"No, please! I swear I'm innocent!",不，拜托！我发誓我是清白的！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,135,9,detective,text,"Hahaha! Calm yourself, monsieur. I only joke. You are no suspect in this case.",哈哈哈！冷静，先生。我只是开个玩笑。您不是本案的嫌疑人。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,141,9,butler,text,Oh... good.,哦……太好了。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,147,9,detective,text,But now do you see the problem with your suggestion? The love for apple pie does not make for sufficient evidence.,但现在您明白自己的提议有什么问题了吗？喜欢苹果派，并不能作为充分的证据。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,153,9,detective,text,"Instead, we should focus on the [hl]shrill, high-pitched noise[/hl] that was used to distract Ms. Roseline.",我们应该关注那阵用来分散露丝琳女士注意力的[hl]尖锐刺耳的高音[/hl]。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,159,9,detective,text,See if you can [hl]find a person[/hl] with a [hl]device[/hl] which could [hl]make such a sound[/hl].,请看看能否[hl]找到一个人[/hl]，他带着某种[hl]装置[/hl]，能[hl]发出这种声音[/hl]。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,165,9,butler,text,I see. That's smart.,明白了。真聪明。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,171,9,detective,text,"One has to be smart to solve cases like these. If you suspect someone, be sure to [hl]send me a picture of them[/hl].",要破解这样的案子，就得聪明才行。如果您怀疑某个人，请务必[hl]把他的图片发给我[/hl]。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,176,9,butler,text,I will. Ms. Roseline deserves justice.,我会的。露丝琳女士应当得到公道。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/intro.lua,182,9,detective,text,"Thank you for your assistance. If you help solve this case, you can expect a reward. Have a good day.",感谢您的协助。如果您帮助破案，我会给您报酬。祝您愉快。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,6,9,detective,text,"Bonjour, mister. I received your picture.",您好，先生。我收到您的图片了。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,11,9,butler,text,"So, what do you think?",您觉得怎么样？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,17,9,detective,text,I think... [emotion=wink_laugh]you solved the case!,我觉得……[emotion=wink_laugh]您破案了！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,22,16,detective,text,"Why indeed, it must've been the whistle of the lifeguard that made the high-pitched noise!",没错，那阵尖锐的声音一定是救生员的哨子发出来的！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,28,9,detective,text,"He might save the lives of others, but he couldn't save himself from satisfying his hunger with a piece of Ms. Roseline's apple pie.",他或许能救别人的命，却救不了自己：他忍不住吃了一块露丝琳女士的苹果派来充饥。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,34,9,detective,text,"Well done, monsieur!",干得好，先生！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,39,9,butler,text,"Great! So, now what? Will he be punished for his crimes?",太好了！接下来呢？他会因罪行受到惩罚吗？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,46,9,detective,text,"First, I will need to find and interrogate the fellow. Give me a moment.",首先，我得找到这家伙并审问他。请稍等。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,51,9,butler,text,[.3]I'm happy Ms. Roseline will finally have justice.,[.3]露丝琳女士终于能得到公道了，真让人高兴。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,58,9,detective,text,"Thank you for waiting, monsieur. I come with some troubling news.",久等了，先生。我带来了一个令人不安的消息。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,63,9,butler,text,What is it? [emotion=angry]What did that pie stealing scumbag have to say?,什么事？[emotion=angry]那个偷派的人渣怎么说？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,69,9,detective,text,"No, that's the thing. It appears that, while it must've been his whistle that Ms. Roseline heard, it was not he who commited the crime.",问题就在这里。露丝琳女士听到的声音虽然一定是他的哨子发出的，但犯案的人不是他。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,75,9,butler,text,Huh?! How could that be?,啊？！怎么会这样？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,80,9,detective,text,The lifeguard was on the beach at the time the crime was committed. He has an alibi.,案发时救生员正在海滩上。他有不在场证明。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,86,9,detective,text,"But more importantly, that morning he found out his whistle was missing.",更重要的是，他那天早上发现自己的哨子不见了。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,92,9,butler,text,Interesting...,有意思……,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,98,9,detective,text,"However, he told me that where his whistle used to be, he found something better in return. [image=detective/apple_pie/lifeguard]""I ain't even mad."" were his exact words.",不过他说，在原本放哨子的地方，他发现了更好的东西。[image=detective/apple_pie/lifeguard]他的原话是：“我一点也不生气。”,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,104,9,detective,text,It seems this case is far from over. [image=false]See if you can find the person who stole the lifeguard's whistle.,看来案子还远远没有结束。[image=false]请看看能否找到偷走救生员哨子的人。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved1.lua,110,9,butler,text,I'm on it.,我这就去。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,6,9,detective,text,"Bonjour, mister. Thank you for your picture.",您好，先生。谢谢您发来的图片。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,11,9,butler,text,"So, what do you think?",您觉得怎么样？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,17,9,detective,text,I think... you found our new suspect!,我觉得……您找到新的嫌疑人了！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,22,16,detective,text,"Why of course, the sunglasses the lifeguard found were originally of this cool kid.",当然，救生员找到的太阳镜原本一定属于这个酷小孩。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,28,9,detective,text,But this kid will soon find out that there's nothing cool about stealing an apple pie!,但这孩子很快就会明白，偷苹果派一点也不酷！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,35,9,detective,text,Let me get to the bottom of this. Give me a moment.,让我查个水落石出。请稍等。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,41,9,butler,text,"[.4]I feel bad, considering it's just a kid, but he should know better than to steal from an old lady.",[.4]毕竟还只是个孩子，我有点过意不去，但他应该知道不能偷老太太的东西。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,48,9,detective,text,"Thank you for waiting, monsieur. I'm afraid this case still isn't over!",久等了，先生。恐怕这个案子还没有结束！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,54,9,butler,text,Really?! The cool kid wasn't the pie thief either?,真的吗？！酷小孩也不是偷派的人？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,60,9,detective,text,"That he was. He admitted his crimes to me, with tears of guilt and regret in his eyes, and no sunglasses to hide them.",不，就是他。他向我承认了罪行，眼中满是愧疚和悔恨的泪水，而且没有太阳镜可遮掩。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,66,9,butler,text,Aww man... I just hope he learned his lesson. It's not okay to eat someone else's pie without asking.,唉……希望他吸取了教训。不问一声就吃别人的派可不对。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,72,9,detective,text,Well that's just the thing. It appears our young perpetrator didn't act alone. He was paid to steal the pie for someone else!,问题就在这里。看来我们的小犯人不是单独行动，他是受人雇用去偷派的！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,78,9,butler,text,Really?! Who?!,真的吗？！是谁？！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,84,9,detective,text,If only it were that simple. The kid claims he never learned his name.,要是那么简单就好了。那孩子说他从来不知道对方的名字。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,90,9,detective,text,"I asked him what he looked like, and he drew [image=detective/apple_pie/composition]this composition sketch of our mysterious new suspect.",我问了对方的模样，他画出了[image=detective/apple_pie/composition]这张神秘新嫌疑人的画像。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,96,9,butler,text,"Not only stealing from an old lady, but paying someone else to do the crime. How utterly pathetic.",偷老太太的东西还不够，居然还花钱雇别人犯罪。真是可悲。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,102,9,detective,text,[image=false]Indeed. Let's find this criminal mastermind before he has the chance to pay any more people to do his dirty work.,[image=false]确实。得趁这个犯罪主谋雇更多人替他干脏活之前找到他。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved2.lua,107,9,butler,text,I will.,我会的。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,6,9,detective,text,"Bonjour, mister. I saw the picture you sent me.",您好，先生。我看到了您发来的图片。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,11,9,butler,text,"Well, what do you think?",怎么样，您觉得呢？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,16,9,detective,text,"I think... [emotion=lean]you did it, mon ami! We caught the bastard who was behind it all!",我觉得……[emotion=lean]您成功了，我的朋友！我们抓到了这一切背后的混蛋！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,21,16,detective,text,"You have the potential to become a great detective yourself some day, y' know?",您知道吗？将来您也有潜力成为一名出色的侦探。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,27,9,butler,text,Thank you! I'm glad I was able to help!,谢谢！能帮上忙我很高兴！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,33,9,detective,text,As a reward I will give you my magnifying glass. Every good detective needs one!,作为奖励，我把我的放大镜送给您。每个好侦探都需要一个！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,39,9,butler,text,Thanks!,谢谢！,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,46,9,butler,text,"(Too bad this is only a demo, or else I could've used it to zoom in...)",（可惜这只是试玩版，不然我就能用它放大了……）,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/apple_pie/solved3.lua,52,9,detective,text,"Have a good day, monsieur.",祝您愉快，先生。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/no_quests.lua,6,9,detective,text,"Bonjour. Thank you for calling, monsieur, but at the moment I do not require your assistance.",您好。感谢来电，先生，不过我目前不需要您的协助。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/no_quests.lua,11,9,butler,text,"Oh, okay.",哦，好的。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/no_quests.lua,17,9,detective,text,I will let you know when I'm stuck on a case again.,如果以后办案再遇到难题，我会通知您。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,5,9,detective,text,"Bonjour, monsieur. Have you found a suspect yet?",您好，先生。找到嫌疑人了吗？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,11,9,butler,text,Not yet. This is more difficult than I thought.,还没有。这比我想的难。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,16,9,detective,text,"It certainly is no easy task. But the most difficult puzzles are the most rewarding, wouldn't you agree?",确实不是件容易的事。但越难的谜题，解开时越有成就感，您说呢？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,21,9,butler,text,"I suppose, but what's the point if we can't get to the reward.",有道理，但如果我们始终得不到那份回报，又有什么意义呢？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,26,9,detective,text,"Look closely to the evidence presented to you, and don't let presumptions cloud your judgement. Anyone could be a suspect.",仔细观察现有证据，不要让先入之见影响判断。任何人都可能是嫌疑人。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,31,9,detective,text,We'll find the suspect eventually. We always do.,我们总会找到嫌疑人的。我们一向如此。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip.lua,36,9,butler,text,"Alright, I'll give it another try.",好，我再试试看。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,5,9,detective,text,"Bonjour, monsieur. Have you found a suspect yet?",您好，先生。找到嫌疑人了吗？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,11,9,butler,text,Not yet. This is more difficult than I thought.,还没有。这比我想的难。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,16,9,detective,text,"It certainly is no easy task. But the most difficult puzzles are the most rewarding, wouldn't you agree?",确实不是件容易的事。但越难的谜题，解开时越有成就感，您说呢？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,21,9,butler,text,"I suppose, but what's the point if we can't get to the reward.",有道理，但如果我们始终得不到那份回报，又有什么意义呢？,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,26,9,detective,text,"Look closely to the evidence presented to you, and don't let presumptions cloud your judgement. Anyone could be a suspect.",仔细观察现有证据，不要让先入之见影响判断。任何人都可能是嫌疑人。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,31,9,detective,text,We'll find the suspect eventually. We always do.,我们总会找到嫌疑人的。我们一向如此。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,36,9,detective,text,"We need to think about what kind of device could make such a sound. Like a [hl]clock, whistle, or speaker[/hl].",我们需要想想什么装置能发出那种声音，比如[hl]钟、哨子或喇叭[/hl]。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/tip_whistle.lua,41,9,butler,text,"Alright, I'll give it another try.",好，我再试试看。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/vague.lua,6,9,detective,text,"Bonjour, mister. I received your picture. However, I have a hard time telling what you mean to say.",您好，先生。我收到您的图片了，不过我很难看出您想表达什么。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/vague.lua,12,9,detective,text,Perhaps you could cut it out more precise? Leave out surrounding details and focus on your suspect.,您能不能剪得更精确一些？去掉周围的细节，把重点放在嫌疑人身上。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/detective/vague.lua,17,9,butler,text,"Okay, I'll try.",好的，我会试试。,已校对,初译；重点复核线索、人物称谓与游戏画面。；已逐句对照英文校对，线索对应与游戏内排版仍待验证
+data/dialog/phone/professor/1/intro.lua,6,9,professor,text,"Guten Tag, young man! [layer=left_hand/up:true:true][emotion=neutral_mouth]You must be calling because of my ad in zee newspaper, no?",你好，年轻人！[layer=left_hand/up:true:true][emotion=neutral_mouth]你是看到我在报纸上登的广告才打来的，对吧？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,11,9,butler,text,That is correct. [emotion=think]I'm not sure how I can help though?,没错。[emotion=think]不过，我不太清楚该怎么帮您？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,17,9,professor,text,"Fantastisch! Allow me to introduce myself. [layer=right_hand/button:true:true]My name is [hl]Professor Doomkopf[/hl], zee smartest human alive!",太好了！请允许我自我介绍。[layer=right_hand/button:true:true]我叫[hl]杜姆科普夫教授[/hl]，是世上最聪明的人！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,23,9,butler,text,Oh really? What is 8 + 5?,哦，真的吗？8 + 5等于多少？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,30,9,professor,text,"13. [.4][layer=left_hand/down:true:true][layer=right_hand/down:true:true][emotion=sad_mouth]Wait, are you seriou-",13。[.4][layer=left_hand/down:true:true][layer=right_hand/down:true:true][emotion=sad_mouth]等等，你是认真的——,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,36,9,butler,text,WOW! That was so fast!,哇！算得好快！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,42,9,professor,text,"If such simplistic arithmetics impresses you, [layer=right_hand/up:true:true]than I'm not certain your brain can handle zee truth.",如果这么简单的算术都能让你惊叹，[layer=right_hand/up:true:true]我就不确定你的脑子能否承受真相了。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,48,9,butler,text,"The truth? What are you talking about, professor? What is this mysterious problem that you need help with?",真相？您在说什么，教授？到底是什么神秘的难题需要我帮忙？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,57,9,professor,text,What I'm about to tell you is of utmost secrecy! [layer=left_hand/up:true:true]Zee fate of zee earth is at stake!,我要告诉你的事绝密无比！[layer=left_hand/up:true:true]地球的命运危在旦夕！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,64,9,professor,text,"You shall deem me crazy, but I assure you my [layer=right_hand/button:true:true]mind is as clear as a carrot!",你可能会觉得我疯了，但我向你保证，我的[layer=right_hand/button:true:true]头脑清醒得像根胡萝卜！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,69,9,butler,text,"I promise I won't call you crazy, professor. Now please, tell me.",我保证不会说您疯了，教授。现在请告诉我吧。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,79,9,professor,text,"They are real! They have landed here on earth, and now these [layer=right_hand/up:true:true]suspicious impostors are walking among us!",他们真的存在！他们已经降落在地球上，现在这些[layer=right_hand/up:true:true]可疑的冒牌货就在我们身边！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,84,9,butler,text,Who are real? What are you talking about?,谁真的存在？您在说什么？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,94,9,professor,text,[hl]ALIENS![/hl] Extraterrestrial beings! Creatures from outer space!,[hl]外星人！[/hl]地外生命！来自太空的生物！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,100,9,butler,text,NO WAY! YOU'RE CRAZY!,不可能！您疯了！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,110,9,professor,text,Aha! Did I not predict you would accuse me of such mental twistery?,哈！我不是早就料到你会说我脑子不正常吗？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,116,9,butler,text,"I apologize, professor. But you must understand, what you claim is hard to believe. [hl]What proof do you have?[/hl]",抱歉，教授。但您得理解，您说的实在难以置信。[hl]您有什么证据吗？[/hl],已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,125,9,professor,text,I'm glad you asked! [layer=right_hand/button:true:true]Let me show you a picture!,问得好！[layer=right_hand/button:true:true]让我给你看张照片！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,131,9,professor,text,"Tell me, young man, [image=professor/1/picture_without_alien]who do you see?",告诉我，年轻人，[image=professor/1/picture_without_alien]你看到了谁？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,137,9,butler,text,I see... no one.,我看到了……谁也没有。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,147,9,professor,text,Exactly! [image=false]That's because [hl]it's impossible to photograph an alien![/hl],没错！[image=false]那是因为[hl]外星人根本拍不下来！[/hl],已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,153,9,butler,text,How convenient...,这可真方便……,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,162,9,professor,text,"These aliens, private creatures as they are, don't want to be caught on film.",这些外星人很注重隐私，不想被拍进画面里。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,168,9,professor,text,"By manipulating zee light photons they manage to hide themselves in any video footage, [hl]altering their form, or becoming invisible entirely![/h]",他们操纵光子，能在各种录像中隐藏自己，[hl]改变形态，甚至完全隐形！[/hl],已校对,已对照英文校对；原文有异常高亮标签，译文已定点修复，游戏内显示仍待验证。
+data/dialog/phone/professor/1/intro.lua,173,9,butler,text,So you have no way to prove their existence then?,那您岂不是没法证明他们存在？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,182,9,professor,text,"Oh, but I do! I have managed to reverse engineer their photo manipulation mechanic, allowing me to restore their original image[/hl].",哦，我有办法！我成功逆向破解了他们操纵影像的机制，可以还原他们原本的模样。,已校对,已对照英文校对；原文有异常高亮标签，译文已定点修复，游戏内显示仍待验证。
+data/dialog/phone/professor/1/intro.lua,188,9,professor,text,"I call it zee [hl]Alien Monocle 3000[/hl]! [layer=right_hand/button:true:true]Take another look at zee same picture, [image=professor/1/picture_with_alien]with my invention applied.",我把它称为[hl]外星单片镜3000[/hl]！[layer=right_hand/button:true:true]再看看同一张照片，[image=professor/1/picture_with_alien]这次用上了我的发明。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,194,9,butler,text,WOW![0] IT'S AN ALIEN![0] THEY ARE REAL!,哇！[0]是外星人！[0]他们真的存在！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,204,9,professor,text,"Indeed! [image=false]We must find out more about these invaders, and for that [hl]I need your help[/hl].",没错！[image=false]我们必须进一步了解这些入侵者，而为此[hl]我需要你的帮助[/hl]。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,213,9,professor,text,I have turned my invention into a [hl]phone app[/hl]. [layer=right_hand/button:true:true]It transforms your camera into a special lens that allows you to see zee truth!,我已经把发明做成了[hl]手机应用[/hl]。[layer=right_hand/button:true:true]它能把你的相机变成特殊镜头，让你看见真相！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,223,9,professor,text,"I ask you to use this app to [hl]find zee aliens hidden in pictures[/hl], and [hl]send them to me[/hl].",请你用这款应用[hl]找出藏在图片里的外星人[/hl]，然后[hl]发给我[/hl]。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,232,9,professor,text,"Beware, these aliens can take any way, shape, or form! [hl]Humans, animals, and objects even![/hl]",小心，这些外星人能变成各种形态！[hl]人、动物，甚至物品都可以！[/hl],已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,238,9,butler,text,"I can do this, professor, but I don't understand. [emotion=think]Why not do this yourself?",教授，我可以帮忙，但我不明白。[emotion=think]您为什么不自己做呢？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,245,9,professor,text,"I would, but my own phone is too outdated to run zee app, [layer=right_hand/down:true:true][emotion=depressed]and I don't have zee money to buy a new one.",我倒是想，可我的手机太旧，运行不了这款应用，[layer=right_hand/down:true:true][emotion=depressed]我也没钱买新的。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,254,9,professor,text,Do you know how expensive it is to have an antenna surgically implemented in your brain?,你知道往脑子里手术植入一根天线要花多少钱吗？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,260,9,butler,text,I was gonna ask what the point of that was...,我正想问那天线是干什么用的……,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/intro.lua,269,9,professor,text,There is no time! Now go and search for these aliens! Let me know when you found something!,没时间了！快去寻找那些外星人！找到什么就告诉我！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,10,9,professor,text,Gutentag! I have received your pictures. Good job on finding these impostors!,你好！我收到你的照片了。干得好，找到这些冒牌货了！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,16,9,butler,text,All thanks to your amazing app! [emotion=think]To think there are so many aliens...,多亏了您那款神奇的应用！[emotion=think]没想到有这么多外星人……,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,22,9,professor,text,"Yes, it is truly concerning. [layer=left_hand/up:true:true]All zee more reason I need these pictures, so that I can study their ways.",是啊，确实令人担忧。[layer=left_hand/up:true:true]我更需要这些照片，好研究他们的行为。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,28,9,butler,text,Do you think they mean harm?,您觉得他们有恶意吗？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,37,9,professor,text,We must work under zee assumption of zee worst case scenario! That's why I always have [layer=right_hand/button:true:true]this remote control at hand.,我们必须按最坏的情况做好准备！所以我总是随身带着[layer=right_hand/button:true:true]这个遥控器。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,43,9,butler,text,"Yes, I saw you hold it earlier. What does it do?",是的，刚才我看见您拿着它。它是做什么的？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,49,9,professor,text,"Simple. [emotion=hover1]By pressing this big red button, I can make the whole world explode![emotion=determined]",很简单。[emotion=hover1]只要按下这个大红按钮，我就能让整个世界爆炸！[emotion=determined],已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,55,9,butler,text,WHAT?! The whole world?! Explode?!,什么？！整个世界？！爆炸？！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,61,9,professor,text,"Yes! If these invaders plan to take over zee earth, [emotion=hover1]I will prevent that from happening at any cost.",没错！如果这些入侵者打算占领地球，[emotion=hover1]我会不惜一切代价阻止他们。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,67,9,professor,text,Better to die honorably than to become slaves of alien scum!,光荣地死去，也比沦为外星渣滓的奴隶要好！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,73,9,butler,text,I... I suppose so...,我……我想也是……,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,79,9,butler,text,"Just... be careful with that remote, please.",只是……请您小心那个遥控器。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,84,9,professor,text,"With [emotion=hover1][b]THIS[/b] remote? Don't worry, I'm very careful not to press [emotion=hover2][b]THIS[/b] button by accident.",你说[emotion=hover1][b]这个[/b]遥控器？别担心，我很小心，绝不会误按[emotion=hover2][b]这个[/b]按钮。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,90,9,butler,text,STOP!,住手！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,99,9,professor,text,"Anyway, thank you for your help. I have transfered some money to your account. [emotion=sad]It's not a lot because-",总之，谢谢你的帮助。我已经给你的账户转了些钱。[emotion=sad]虽然不多，因为——,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,105,9,butler,text,"Because of the antenna, I get it. Thank you, professor, I appreciate it.",因为天线，我明白。谢谢您，教授，我很感激。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,112,9,butler,text,"(Too bad this is only a demo, or else I could've done something with the money...)",（可惜这只是试玩版，不然这些钱还能派上用场……）,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,117,9,professor,text,"You're welcome. I'm gonna hang up now. Let's see, [emotion=hover1]which button was that again...?",不客气。我这就挂电话。让我看看，[emotion=hover1]挂断是哪个按钮来着……？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/1/solved.lua,123,9,butler,text,NO IT'S OKAY I'LL HANG UP!,不用了！我来挂！,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/no_quests.lua,9,9,professor,text,"Gutentag! Thank you for calling, but I don't require your help at this time.",你好！谢谢你打来，不过我现在不需要你帮忙。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/no_quests.lua,14,9,butler,text,"Oh, okay.",哦，好的。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/no_quests.lua,22,9,professor,text,I will let you know when I need you to search for more aliens.,等我需要你继续寻找外星人时，会通知你的。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/tip.lua,5,9,professor,text,Gutentag! How is the search for aliens going?,你好！寻找外星人的工作进行得怎么样？,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/tip.lua,10,9,butler,text,"Could be better. They're well hidden, even with the app activated.",不太顺利。就算打开应用，他们也藏得很好。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/tip.lua,18,9,professor,text,They are indeed. It helps if you memorize what the pictures look like before you use the app.,确实如此。你可以先记住使用应用前图片的样子，这会有帮助。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/tip.lua,23,9,professor,text,And know that zee aliens don't have a good understanding of earth. Look for things that look... out of place.,还有，外星人并不了解地球。找找那些看起来……格格不入的东西。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/phone/professor/tip.lua,28,9,butler,text,"I see. Okay, I'm gonna keep searching.",明白了。好，我继续找。,已校对,初译；待逐条复核语境、术语、格式和游戏界面。；已逐句对照英文校对，游戏内线索与显示仍待验证
+data/dialog/workshop/butler/chapter2.lua,7,9,butler,text, ...,……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/chapter2.lua,21,9,butler,text,You've gotta be kidding me!,这不是在开玩笑吧！,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/chapter2.lua,27,9,butler,text,"Well, I did it once, I can do it again.",既然上次做到了，这次也一定行。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/comments/missing.lua,2,5,,,I think I'm missing an important object,我好像漏掉了一件重要的东西。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/comments/missing.lua,3,5,,,I probably should have at least one more cutout,我可能还得再加一张剪片。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/demo_end.lua,7,9,butler,text,"[sfx=objects/bell]Butler! Butler, I need you!",[sfx=objects/bell]管家！管家，我有事找你！,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/demo_end.lua,13,9,butler,text,Mr. Hector is calling me. I'll have to finish this another time.,赫克托先生在叫我。我只能下次再做完了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/fired.lua,7,9,butler,text,"[textspeed=0.005]NO, MR. HECTOR! PLEASE, I'M SORR-[/textspeed][.5] Oh...",[textspeed=0.005]不，赫克托先生！求求您，我错——[/textspeed][.5] 哦……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/fired.lua,14,9,butler,text,I see... [emotion=neutral]It was only a nightmare.,原来……[emotion=neutral]只是一场噩梦。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/fired.lua,20,9,butler,text,"I dozed off, and dreamt I showed Mr. Hector this painting. Better have another look at it...",我打了个盹，梦见自己把这幅画给赫克托先生看了。还是再检查一遍吧……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/phone/lose_creative_work.lua,5,9,butler,text,"Perhaps I should leave this for a later time. But in that case, let me clean up my desk first and [hl]remove all these cutouts[/hl].",或许这件事还是以后再做吧。不过在那之前，我得先收拾一下桌子，[hl]把这些剪片都移走[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/8.lua,3,16,,text,I can change the way cutting works in the settings.,我可以在设置里更改剪裁方式。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/apple_page.lua,5,9,,text,Maybe this picture will work. Now to cut it out of the newspaper.,这张图片或许能用。现在把它从报纸上剪下来吧。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/apple_page.lua,10,9,,text,I can do so by [hl]holding the [[]left mouse button][/hl] and making a closed loop.,只要[hl]按住[[]鼠标左键][/hl]，画出一个闭合的圈就行。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/apple_page.lua,15,9,,text,"I'll do my best to cut it out nicely, or else Mr. Hector will get suspicious.",我得尽量剪得整齐点，不然赫克托先生会起疑心的。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/cutout.lua,6,16,,text,"Not my best work, but it might work.",虽然剪得不怎么样，但说不定能用。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/cutout.lua,10,9,,text,"If I want to try again, I can always [hl]undo the cut[/hl] by [hl][[]double clicking][/hl] the cutout with the [hl][[]right mouse button][/hl].",如果想重剪，我可以用[hl][[]鼠标右键][/hl][hl][[]双击][/hl]剪片，[hl]撤销剪裁[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/cutout.lua,14,9,,text,"Now that I have a cutout, I can go back to the canvas by pressing [hl][[]A][/hl], [hl][[]J][/h], or the [hl][[]left arrow key][/hl].",有了剪片后，我可以按[hl][[]A][/hl]、[hl][[]J][/hl]或[hl][[]左方向键][/hl]回到画布。,已校对,已对照英文校对；原文有异常高亮标签，译文已定点修复，游戏内显示仍待验证。
+data/dialog/workshop/butler/tutorial/fail.lua,6,9,,text,I'm such an idiot. Of course he wouldn't be tricked by this mess of paper cutouts.,我真是个笨蛋。他当然不会被这一堆乱七八糟的剪纸骗过去。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail.lua,11,9,,text,But I won't give up hope just yet. Let's just try again and hope he will fall for it this time.,不过我还不能放弃。再试一次吧，希望这回能蒙混过关。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail.lua,15,9,,text,"The icons above the cutouts indicate what's wrong with it, or whether it's correct.",剪片上方的图标会告诉我哪里不对，或是它是否正确。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail.lua,19,9,,text,And I should remember that I can always [hl]undo a cutout[/hl] by clicking it with the [hl]right mouse button[/hl].,还得记住，我随时可以用[hl]鼠标右键[/hl]点击剪片，[hl]撤销剪裁[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail_again.lua,6,9,,text,I'm starting to doubt my plan...,我开始怀疑这个计划了……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail_again.lua,11,9,,text,"No, I can't lose hope. I just need to do this properly is all.",不，我不能灰心。我只要认真做好就行了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail_again.lua,15,9,,text,"I need to correctly place a cutout for the [hl]milk[/hl], the [hl]apple[/hl] and the [hl]grapes[/hl].",我需要把代表[hl]牛奶[/hl]、[hl]苹果[/hl]和[hl]葡萄[/hl]的剪片放对位置。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail_again.lua,19,9,,text,"I should make sure to [hl]cut them out neatly[/hl], and to [hl]place them on the correct position[/hl].",我得确保[hl]剪得整齐[/hl]，并把它们[hl]放在正确的位置[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/fail_again.lua,23,9,,text,The icon above the cutout will tell me what's wrong with it.,剪片上方的图标会告诉我哪里出了问题。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/newspaper.lua,7,16,butler,text,This newspaper is filled with pictures. Maybe I can find similar looking objects.,这份报纸上有很多图片。或许能找到样子相似的物品。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/newspaper.lua,12,9,butler,text,I can [hl][[]click][/hl] in corners of the pages to flip to the next and previous page.,我可以[hl][[]点击][/hl]页面的角落，向前或向后翻页。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/newspaper.lua,17,9,butler,text,Or I can hold [hl][[]shift][/hl] while pressing [hl][[]A or D][/hl] or [hl][[]J or L][/hl] to browse the newspaper.,或者按住[hl][[]shift][/hl]，再按[hl][[]A 或 D][/hl]或[hl][[]J 或 L][/hl]浏览报纸。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/autosave.lua,4,9,,text,That's good to know. After completing a painting I could take a break and come back.,这就好。完成一幅画后，我可以先休息一下，之后再回来。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/back_to_canvas.lua,4,9,,text,Once I have a cutout I should go back to the canvas.,剪好一张剪片后，我应该回到画布。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/back_to_canvas.lua,8,9,,text,"When I go to the canvas, all new cutouts will automatically move with me to the canvas.",回到画布时，所有新剪的剪片都会自动跟着我过去。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/back_to_canvas.lua,12,9,,text,"Alternatively, I can hold a cutout while I move with [hl][[]A/D][/hl].",我也可以拿住剪片，再用[hl][[]A/D][/hl]移动。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/back_to_canvas.lua,16,9,,text,Or I can place the cutout at the edge of the screen to move it to another section.,或者把剪片放到屏幕边缘，将它移到另一个区域。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/butler_vision.lua,4,9,,text,"If I ever want to hear my own thoughts on any of these news articles, I can [hl]right click[/hl] on them for my [hl]commentary[/hl].",如果想听听自己对这些新闻的看法，我可以[hl]右键点击[/hl]它们，听听自己的[hl]评论[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/butler_vision.lua,9,9,,text,"That's not an insane thing to tell myself, right?",对自己说这种话不算疯了吧？,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/butler_vision.lua,13,9,,text,Sometimes I have different thoughts about [hl]specific details[/hl] in a picture. [emotion=smug_hand]I should give it a try on that article.,有时候我对图片里的[hl]某些细节[/hl]还有别的想法。[emotion=smug_hand]不妨在那篇文章上试试。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/cut.lua,4,9,,text,Maybe this picture will work. Now to cut it out of the newspaper.,这张图片或许能用。现在把它从报纸上剪下来吧。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/cut.lua,8,9,,text,I can do so by [hl]holding the [[]left mouse button][/hl] and making a closed loop.,只要[hl]按住[[]鼠标左键][/hl]，画出一个闭合的圈就行。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/cut.lua,13,9,,text,"I'll do my best to cut it out nicely, or else Mr. Hector will get suspicious.",我得尽量剪得整齐点，不然赫克托先生会起疑心的。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/cut_hold.lua,5,9,,text,I can make a cutout by [hl]holding the [[]left mouse button][/hl] and making a closed loop.,我可以[hl]按住[[]鼠标左键][/hl]画出一个闭合的圈，做成剪片。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/cut_hold.lua,10,9,,text,I can change the method of cutting in the [hl]settings[/hl].,我可以在[hl]设置[/hl]里更改剪裁方式。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/depth.lua,4,9,,text,Sometimes I might want to place a cutout below another cutout. Good thing I can [hl]lower the depth[/hl] of the cutout I hold.,有时我想把一张剪片放到另一张的下方。幸好我可以[hl]降低手中剪片的层级[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/depth.lua,8,9,,text,"I can do so by [hl]holding a cutout[/hl] and then pressing [hl][[]F][/hl]. To bring it back up, I can hold [hl][[]shift][/hl] as I press [hl][[]F][/hl].",[hl]拿住剪片[/hl]后按[hl][[]F][/hl]即可。想把它移回上层，可以按住[hl][[]shift][/hl]再按[hl][[]F][/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/depth.lua,12,9,,text,"Alternatively, if I have a mouse with [hl]side-buttons[/hl], I can press those to change the cutout depth.",如果鼠标有[hl]侧键[/hl]，也可以按侧键调整剪片的层级。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/flip.lua,4,9,,text,"Besides clicking in the corners, I can also flip pages by holding down [hl][[]shift][/hl] and then pressing [hl][[]A or D][/hl].",除了点击角落，我还可以按住[hl][[]shift][/hl]，再按[hl][[]A 或 D][/hl]来翻页。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/gameplay_settings.lua,4,9,,text,I can change the gameplay settings to my preferred play style.,我可以按照自己的习惯调整游戏操作设置。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/gameplay_settings.lua,8,9,,text,"For example, by changing the cut mode to [hl]click mode[/hl] I won't need to hold down the left mouse button to make a cut.",例如，把剪裁模式改成[hl]单击[/hl]后，剪裁时就不用一直按住鼠标左键了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/gameplay_settings.lua,12,9,,text,I can also change it to the [hl]segment tool[/hl] to draw the line in steps.,我也可以改用[hl]折线工具[/hl]，分段画出剪裁线。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/gameplay_settings.lua,16,9,,text,I can then press the [hl][[]right mouse button][/hl] to undo a step.,画错一步时，可以按[hl][[]鼠标右键][/hl]撤销。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/gameplay_settings.lua,20,9,,text,"By closing the loop, or by clicking the [hl][[]middle mouse button][/hl], I can complete the cutout.",画出闭合的圈，或者点击[hl][[]鼠标中键][/hl]，就能完成剪裁。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/missing.lua,4,9,,text,"I'll need to take a good look at the sketch I've drawn, and what elements in the painting are missing from the sketch.",我得仔细看看自己画的草图，找出原画里有哪些元素没有画进去。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/missing.lua,7,16,,text,These will be the elements that I need to find substitutes for.,这些就是我需要寻找替代品的元素。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/navigate.lua,4,9,,text,I neatly separated my desk into three sections. By pressing [hl][[]A or D][/hl] I can move to another section. ,我把桌面整齐地分成了三个区域。按[hl][[]A 或 D][/hl]可以移动到其他区域。 ,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/navigate.lua,8,9,,text,Or I can [hl][[]click][/hl] on the [hl]arrows in the corner.[/hl],也可以[hl][[]点击][/hl][hl]角落的箭头。[/hl],已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/newspaper.lua,3,16,,text,This newspaper is filled with pictures. I hope to find objects that look similar to the missing objects.,这份报纸上有很多图片。希望我能找到和缺失物件长得相似的东西。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/newspaper.lua,8,9,,text,I can [hl]click in the corners[/hl] of the newspaper to flip to the [hl]next and previous page[/hl].,我可以[hl]点击报纸的角落[/hl]，翻到[hl]下一页或上一页[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/newspaper.lua,13,9,,text,Or I can hold [hl][[]shift][/hl] while pressing [hl][[]A or D][/hl] or [hl][[]J or L][/hl] to browse the newspaper.,或者按住[hl][[]shift][/hl]，再按[hl][[]A 或 D][/hl]或[hl][[]J 或 L][/hl]浏览报纸。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/observe.lua,4,9,,text,Every painting has some [hl]key elements[/hl] that stand out. These will be the elements that I need to copy.,每幅画都有一些醒目的[hl]关键元素[/hl]。这些就是我需要复制的部分。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/operation.lua,4,16,,text,"I'm not sure what I'm more proud of. Coming up with this genius plan, or this brilliant name.",我都不知道该为哪个更得意：想出这么天才的计划，还是起了这么绝妙的名字。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/painting_info.lua,4,9,,text,This pamphlet has some interesting info on these [hl]paintings[/hl] and their [hl]artists[/hl].,这本小册子介绍了这些[hl]画作[/hl]及其[hl]画家[/hl]的一些趣事。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/painting_info.lua,8,9,,text,"I can [hl][[]scroll][/hl], hold [hl][[]shift][/hl] and press [hl][[]W or S][/hl], or use those [hl]buttons on the right[/hl].",我可以[hl][[]滚动鼠标滚轮][/hl]，按住[hl][[]shift][/hl]再按[hl][[]W 或 S][/hl]，或者使用[hl]右侧的按钮[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/picture.lua,4,9,,text,This is the catalog Mr. Hector was talking about. It contains pictures of the paintings he wanted me to buy.,这就是赫克托先生说的画册。里面有他想让我购买的画的图片。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/picture.lua,7,16,,text,I can click on the pictures to get a closer look.,我可以点击图片，近距离仔细查看。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/place.lua,4,9,,text,"Now that I have a cutout, I need to place it on the right location. I do so by [hl]holding the cutout[/hl], and then [hl]dragging it[/hl] to the right spot.",剪好后，我要把剪片放到正确的位置。我可以[hl]拿住剪片[/hl]，再把它[hl]拖[/hl]到合适的位置。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/place.lua,8,9,,text,I can always go back to the [hl]picture of the painting[/hl] in the catalog to check where the cutout should go.,我随时可以回到画册里的[hl]原画图片[/hl]，确认剪片应该放在哪儿。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/place.lua,12,9,,text,In the [hl]settings[/hl] I can change the [hl]drag mode[/hl] to [hl]clicking[/hl] instead of [hl]holding[/hl].,在[hl]设置[/hl]里，我可以把[hl]拖动方式[/hl]从[hl]按住[/hl]改为[hl]单击[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/reminder.lua,4,9,,text,"Thanks for the reminder, past self. Yes, each note can be clicked on for some [hl]additional info[/hl].",谢谢过去的我提醒。对，每张便条都可以点击，查看[hl]更多信息[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/reminder.lua,8,9,,text,But it's [hl]not required[/hl] to understand what I'm supposed to do.,但即使不看这些，我也[hl]能明白[/hl]自己要做什么。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/repeat.lua,4,9,,text,All paintings will require [hl]multiple cutouts[/hl]. Now I just need to repeat these steps...,每幅画都需要[hl]多张剪片[/hl]。现在只要重复这些步骤就行了……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/rotate.lua,3,16,,text,I might have to [hl]rotate[/hl] some of these cutouts.,有些剪片可能需要[hl]旋转[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/rotate.lua,7,9,,text,"In that case I can [hl]hold the cutout[/hl] and [hl]hold [[]q or e][/hl], or [hl][[]u or o][/hl], or [hl][[]scroll] with the mouse[/hl].",这时我可以[hl]拿住剪片[/hl]，然后[hl]按住[[]q 或 e][/hl]、[hl][[]u 或 o][/hl]，或者[hl][[]滚动]鼠标滚轮[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/sketch.lua,3,16,,text,"I'm not a great artist, but I can draw a simple sketch of the painting.",我不是什么大画家，但可以先把这幅画简单地画个草图。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/sketch.lua,6,16,,text,For the [hl]important elements[/hl] I will use a different method.,至于[hl]重要的元素[/hl]，我会用另一种方法。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/undo.lua,4,9,,text,"If I don't like the way I did a cutout, I can undo it by first [hl]holding the cutout[/hl] and then clicking the [hl][[]right mouse button][/hl].",如果不满意剪片的样子，可以先[hl]拿住剪片[/hl]，再点击[hl][[]鼠标右键][/hl]撤销剪裁。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/notes/undo.lua,8,9,,text,"I can change the undo mode in the [hl]settings[/hl] to change it to a [hl][[]double click][/hl], or to [hl]not require holding[/hl] the cutout.",我可以在[hl]设置[/hl]里更改撤销模式，改成[hl][[]双击][/hl]，或者设为[hl]无需拿住[/hl]剪片。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/placing.lua,6,16,,text,"Let's see, where should this cutout go.",让我看看，这张剪片该放在哪里。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/placing.lua,9,16,,text,I can always go back to the catalog to check on the original painting.,我随时可以回到画册，看看原画是什么样的。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/placing.lua,13,9,,text,"I'll [hl]drag[/hl] the cutout into the right spot, and start looking for another object to cut out.",我要把剪片[hl]拖[/hl]到正确位置，然后去找下一个要剪的物品。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/placing.lua,16,16,,text,"Once I have placed all objects, I will be ready to show it to Sir.",等所有物品都放好，我就可以把画拿给先生看了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/placing.lua,19,16,,text,And hopefully keep my job...,希望还能保住饭碗……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/ready.lua,3,16,,text,"Great. Let me just make sure this last cutout is placed nicely, and then I can show it to sir.",太好了。只要把最后一张剪片放好，就能拿给先生看了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/rotate.lua,3,16,,text,I might have to rotate some of these cutouts.,有些剪片可能需要旋转。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/rotate.lua,7,9,,text,"In that case I can [hl]hold the cutout[/hl] and [hl]press [[]q or e][/hl], or [hl][[]u or o][/hl], or [hl][[]scroll with the mouse][/hl].",这时我可以[hl]拿住剪片[/hl]，然后[hl]按[[]q 或 e][/hl]、[hl][[]u 或 o][/hl]，或者[hl][[]滚动鼠标滚轮][/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/rotate.lua,11,9,,text,Just need to make sure I [hl]hold the cutout[/hl] to rotate it.,旋转时一定要记得[hl]拿住剪片[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/sketch.lua,7,16,butler,text,"There. I can do a bit of sketching, but for the important objects I'll need something better.",好了。我是能简单画个草图，但重要的物件得想别的办法。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/sketch.lua,12,9,butler,text,"Let me press [hl][[]D], [[]L], or the [[]right arrow key][/hl] again to go to the newspaper.",再按一次[hl][[]D]、[[]L]或[[]右方向键][/hl]，去报纸那边吧。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/start.lua,7,9,butler,text,"Okay, don't panic. Nothing that a bit of arts and crafts can't fix.",好，别慌。这点事，动动手做做手工就能解决。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/start.lua,13,9,butler,text,Normally I use this workplace to prepare the bought paintings.,平时我会在这张工作台上准备买来的画。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/start.lua,20,9,butler,text,Now I'll have to use it to [hl]recreate the paintings[/hl] instead.,现在，我得用它来[hl]重新制作这些画[/hl]了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/start.lua,25,9,butler,text,"To make things easier, I wrote down some [hl]notes[/hl] for myself as a reminder.",为了方便，我给自己写了几张[hl]便条[/hl]，免得忘了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/start.lua,30,9,butler,text,I can [hl]click these notes[/hl] if I ever need more info to explain... to myself.,需要更多说明的时候，我可以[hl]点击这些便条[/hl]，向……自己解释一下。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/success.lua,6,9,,text,I can't believe that actually worked! For a second I thought he figured me out.,居然真的成功了！刚才有那么一瞬间，我还以为他发现了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/success.lua,11,9,,text,"But now that it's a proven method, there's no time to waste.",既然证明这个办法可行，那就不能浪费时间了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/success.lua,15,9,,text,[hl]Four[/hl] more paintings to go...,还剩[hl]四[/hl]幅画……,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/too_few_cutouts.lua,5,9,butler,text,I'm not quite sure I'm done yet.,我好像还没做完。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/too_few_cutouts.lua,10,9,butler,text,"I think for this painting there are [hl]3 elements[/hl] I will need to replace with a cutout, meaning [hl]3 cutouts[/hl].",这幅画里有[hl]3个元素[/hl]需要用剪片代替，也就是说需要[hl]3张剪片[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/too_many_cutouts.lua,5,9,butler,text,"Hold up, I think I have too many cutouts for this painting.",等等，这幅画的剪片好像太多了。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/too_many_cutouts.lua,10,9,butler,text,"I think for this painting there are [hl]3 elements[/hl] I will need to replace with a cutout, meaning [hl]3 cutouts[/hl].",这幅画里有[hl]3个元素[/hl]需要用剪片代替，也就是说需要[hl]3张剪片[/hl]。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/view_painting.lua,8,9,butler,text,Interesting. [layer=hand:true]I see some notable objects that I will need to copy.,有意思。[layer=hand:true]这幅画里有一些醒目的物件，我需要把它们复制出来。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/dialog/workshop/butler/tutorial/view_painting.lua,13,9,butler,text,"Let me press [hl][[]D], [[]L], or the [[]right arrow key][/hl] to go to the canvas.",按[hl][[]D]、[[]L]或[[]右方向键][/hl]前往画布吧。,已校对,初译；待逐条复核操作及游戏内显示。；已逐句对照英文校对，游戏内显示及操作仍待验证
+data/menu_data.lua,7,21,,title,Back,返回,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,10,27,,description,Go back,返回上一页,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,23,17,,title,Play,开始游戏,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,70,17,,title,Settings,设置,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,74,25,,title,Gameplay,操作,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,76,31,,description,Gameplay options,游戏操作设置,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,85,25,,title,Graphics,画面,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,95,25,,title,Audio,声音,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,106,17,,title,Gameplay,操作,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,136,25,,title,Cut mode,剪裁方式,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,144,33,,title,Holding,按住,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,145,39,,description,Cut by holding the left mouse button (default),按住鼠标左键剪裁（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,150,33,,title,Clicking,单击,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,151,39,,description,Cut by clicking at start and end,分别单击起点和终点剪裁,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,155,33,,title,Segment tool,折线工具,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,156,39,,description,Cut in steps (rmb to remove step),分段剪裁（右键撤销上一段）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,162,25,,title,Drag mode,拖动方式,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,170,33,,title,Holding,按住,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,171,39,,description,Hold left mouse button to drag cutouts (default),按住鼠标左键拖动剪片（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,176,33,,title,Clicking,单击,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,177,39,,description,"Click to start dragging, click again to release",单击开始拖动，再次单击放下,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,183,25,,title,Undo mode,撤销方式,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,191,33,,title,Drag + single click,拖动＋单击,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,192,39,,description,Hold cutout and right click once to undo (default),按住剪片并单击右键撤销（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,196,33,,title,Drag + double click,拖动＋双击,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,197,39,,description,Hold cutout and double right click to undo,按住剪片并双击右键撤销,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,201,33,,title,Single right click,单击右键,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,202,39,,description,Right click once to undo a cutout (drag optional),单击右键撤销剪片（无需拖动）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,207,33,,title,Double right click,双击右键,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,208,39,,description,Double right click to undo a cutout (drag optional),双击右键撤销剪片（无需拖动）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,214,25,,title,Cut line color,剪裁线颜色,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,222,33,,title,Inverted,反色,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,223,39,,description,Inverted color to the newspaper (default),与报纸颜色相反（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,228,33,,title,White,白色,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,232,33,,title,Purple,紫色,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,238,25,,title,Rotate cut cursor,剪裁光标旋转,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,246,33,,title,Off,关闭,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,247,39,,description,Keeps the cursor steady while cutting,剪裁时光标保持不动,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,252,33,,title,On,开启,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,253,39,,description,Rotates the cursor based on cut direction,根据剪裁方向旋转光标,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,279,17,,title,Graphics,画面,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,283,25,,title,Fullscreen,全屏,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,295,33,,title,On,开启,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,300,33,,title,Off,关闭,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,306,25,,title,Vsync,垂直同步,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,316,33,,title,Off,关闭,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,321,33,,title,On,开启,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,327,25,,title,Pixel perfect,像素完美,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,335,33,,title,Off,关闭,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,340,33,,title,On,开启,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,341,39,,description,Changes resolution to keep perfect pixels (default),更改分辨率以保持像素整齐（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,347,25,,title,Scaling,画面缩放,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,355,33,,title,Fuzzy,柔和,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,356,39,,description,Linear scaling,线性缩放,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,360,33,,title,Sharp,锐利,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,362,39,,description,Nearest neighbor scaling (default),最近邻缩放（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,368,25,,title,Pretty pixels,像素优化,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,376,33,,title,On,开启,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,377,39,,description,Improves rotated pixels (default),改善旋转后的像素效果（默认）,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,382,33,,title,Off,关闭,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,383,39,,description,Might improve performance,可能提升性能,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,390,17,,title,Audio,声音,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,394,25,,title,Master volume,主音量,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,402,33,,title,0%,0%,保留原文,数字或百分比
+data/menu_data.lua,406,33,,title,10%,10%,保留原文,数字或百分比
+data/menu_data.lua,410,33,,title,20%,20%,保留原文,数字或百分比
+data/menu_data.lua,414,33,,title,30%,30%,保留原文,数字或百分比
+data/menu_data.lua,418,33,,title,40%,40%,保留原文,数字或百分比
+data/menu_data.lua,422,33,,title,50%,50%,保留原文,数字或百分比
+data/menu_data.lua,426,33,,title,60%,60%,保留原文,数字或百分比
+data/menu_data.lua,430,33,,title,70%,70%,保留原文,数字或百分比
+data/menu_data.lua,434,33,,title,80%,80%,保留原文,数字或百分比
+data/menu_data.lua,439,33,,title,90%,90%,保留原文,数字或百分比
+data/menu_data.lua,443,33,,title,100%,100%,保留原文,数字或百分比
+data/menu_data.lua,449,25,,title,Music volume,音乐音量,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,457,39,,description,You made our composer very sad,你让作曲家伤心了,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,458,33,,title,0%,0%,保留原文,数字或百分比
+data/menu_data.lua,462,33,,title,10%,10%,保留原文,数字或百分比
+data/menu_data.lua,466,33,,title,20%,20%,保留原文,数字或百分比
+data/menu_data.lua,470,33,,title,30%,30%,保留原文,数字或百分比
+data/menu_data.lua,474,33,,title,40%,40%,保留原文,数字或百分比
+data/menu_data.lua,478,33,,title,50%,50%,保留原文,数字或百分比
+data/menu_data.lua,482,33,,title,60%,60%,保留原文,数字或百分比
+data/menu_data.lua,486,33,,title,70%,70%,保留原文,数字或百分比
+data/menu_data.lua,490,33,,title,80%,80%,保留原文,数字或百分比
+data/menu_data.lua,494,33,,title,90%,90%,保留原文,数字或百分比
+data/menu_data.lua,498,33,,title,100%,100%,保留原文,数字或百分比
+data/menu_data.lua,505,25,,title,SFX volume,音效音量,已校对,对照英文和设置项含义；画面排版待验证
+data/menu_data.lua,516,33,,title,0%,0%,保留原文,数字或百分比
+data/menu_data.lua,520,33,,title,10%,10%,保留原文,数字或百分比
+data/menu_data.lua,524,33,,title,20%,20%,保留原文,数字或百分比
+data/menu_data.lua,528,33,,title,30%,30%,保留原文,数字或百分比
+data/menu_data.lua,532,33,,title,40%,40%,保留原文,数字或百分比
+data/menu_data.lua,536,33,,title,50%,50%,保留原文,数字或百分比
+data/menu_data.lua,540,33,,title,60%,60%,保留原文,数字或百分比
+data/menu_data.lua,544,33,,title,70%,70%,保留原文,数字或百分比
+data/menu_data.lua,548,33,,title,80%,80%,保留原文,数字或百分比
+data/menu_data.lua,552,33,,title,90%,90%,保留原文,数字或百分比
+data/menu_data.lua,556,33,,title,100%,100%,保留原文,数字或百分比
+data/newspaper_comments.lua,5,20,,text,I knew I should've bought the other brand...,我就知道该买另一个牌子的……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,11,20,,text,That's the cutest thing ever.,这也太可爱了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,17,20,,text,Did they really feel the need to teach their readers how to flip a page?,他们真的觉得有必要教读者怎么翻页吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,23,20,,text,I've seen scarier things.,我见过更吓人的。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,29,20,,text,I feel like this guy shouldn't have a medical license.,我觉得这人不该有行医执照。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,35,20,,text,That's some advanced math.,好高深的数学。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,41,20,,text,She reminds me of my teacher at the butler kindergarten.,她让我想起管家幼儿园的老师。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,47,20,,text,Mr. Hector must've placed his cup onto the newspaper.,赫克托先生肯定把杯子放在报纸上了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,53,20,,text,That can't be real.,这不可能是真的。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,59,20,,text,Mean.,真过分。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,65,20,,text,Interesting. I always just use my fists.,有意思。我一般直接用拳头。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,71,20,,text,Perhaps when this is all over I'll treat myself.,等这些事都结束了，也许我该犒劳一下自己。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,77,20,,text,It never made sense to me that a sun would wear sunglasses.,我一直不明白，太阳为什么要戴太阳镜。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,83,20,,text,Is that what they call it nowadays?,现在他们都这么叫了吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,89,20,,text,I had one of those as a kid. Good times.,我小时候有过一个。真怀念啊。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,95,20,,text,Last time I ripped my swimming pants.,上次我把泳裤给撕破了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,101,20,,text,Who's a good boy?,谁是乖狗狗呀？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,107,20,,text,I like turtles.,我喜欢乌龟。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,113,20,,text,Perhaps when I get fired I could become a lifeguard...,要是我被开除了，也许可以去当救生员……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,119,20,,text,Do they have mayonnaise flavor?,有蛋黄酱味的吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,125,20,,text,For a second I thought that was a mermaid.,我刚才还以为那是条人鱼。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,131,20,,text,That's how I walk when I don't want to wake up Mr. Hector.,不想吵醒赫克托先生的时候，我就是这么走路的。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,137,20,,text,Maybe they'll find some treasure.,也许他们能找到宝藏。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,143,20,,text,"What's he so angry abou- oh, I see.",他为什么这么生气——哦，我明白了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,149,20,,text,That must be a gull of the chroicocephalus genus. Beautiful creatures.,那一定是彩头鸥属的海鸥。真漂亮。,已校对,属名参考《生态与农村环境学报》2025.0666；仍待在报纸画面确认。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,155,20,,text,Reminds me of that disaster from 1912.,让我想起1912年的那场灾难。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,161,20,,text,That looks really cold.,看起来真冷。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,167,20,,text,Oh. That's nice.,哦。不错。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,173,20,,text,Huh? Why is he sad that...,咦？为什么他会为这个难过……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,179,20,,text,Wait a minute.,等一下。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,185,20,,text,No freaking way!,不会吧！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,191,20,,text,Just ... gray? How is that a flavor?,就是……灰色？那算什么味道？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,197,20,,text,I can make that at home.,这个我自己在家就能做。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,203,20,,text,Just like how mom used to make it...,和妈妈做的一模一样……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,209,20,,text,Where am I going to hide all of my alarm clocks?,我要把所有闹钟藏在哪儿呢？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,216,13,,text,Who would want to be a captain? Maybe if I was desperate for money for some kind of medical procedure.,谁会想当船长？除非我急着用钱去做什么手术。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,222,20,,text,Reminds me of myself back in high school.,让我想起了高中时的自己。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,228,20,,text,Absolute cinema.,绝世好片。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,234,20,,text,Is this AI generated?,这是AI生成的吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,240,20,,text,That's me when I'm old.,这就是老了以后的我。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,246,20,,text,My favorite animal.,我最喜欢的动物。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,252,20,,text,I'm glad he's safe.,他平安无事，我就放心了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,258,20,,text,It's all part of the job.,这都是工作的一部分。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,264,20,,text,Yuck.,咦，真恶心。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,270,20,,text,"Wow, that sounds like my type of game!",哇，听起来正是我喜欢的游戏！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,276,20,,text,"Yes, I figured.",嗯，我就知道。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,282,20,,text,"I heard that wishlisting helps the developers, so I definitely will.",听说加入愿望单能帮到开发者，我肯定会加的。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,288,20,,text,That sounds like a fun place to hang out and talk about the game. I could share my creations!,听起来是个聊天讨论游戏的好地方。我还可以分享我的作品！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/newspaper_comments.lua,294,20,,text,I'm definitely gonna follow for all the cool updates on the development of this game!,我要关注它，看看游戏开发有哪些酷炫的新进展！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已对照英文和已知报纸元素校对，逐个触发及显示仍待验证
+data/paintings/artists.lua,3,16,,name,Juan Cáton IX,胡安·卡顿九世,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,4,21,,last_name,Cáton IX,卡顿九世,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,5,21,,born_died,1860 - 1940,1860 - 1940,保留原文,数字或百分比
+data/paintings/artists.lua,7,9,,description,"As part of the Cáton painter dynasty, Cáton IX distinguished himself as a still life painter through the inclusion of unusual objects.",作为卡顿画家世家的一员，卡顿九世以在静物画中加入不同寻常的物品而脱颖而出。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,10,16,,name,Anthony Peack,安东尼·皮克,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,11,21,,last_name,Peack,皮克,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,12,21,,born_died,1895 - 1987,1895 - 1987,保留原文,数字或百分比
+data/paintings/artists.lua,14,9,,description,"Peack brought fairy tales to life with his colorful paintings. He has lended his craft to the illustration of books, and even helped design a theme park. As part of his legacy, people still speak of ""Peack content"" to describe a work as matching his quality.",皮克用色彩缤纷的画作让童话栩栩如生。他曾为书籍绘制插画，甚至参与设计过一座主题公园。如今人们仍用“皮克巅峰级佳作”称赞达到他那般水准的作品。,已校对,Peack/peak 双关的中文表达待结合画册版面复核。；已逐句对照英文校对；画册实际排版仍待验证；Peack/peak 双关意译为皮克巅峰级
+data/paintings/artists.lua,17,16,,name,Raynere Zeeman,雷内·泽曼,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,18,21,,last_name,Zeeman,泽曼,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,19,21,,born_died,1613 - 1674,1613 - 1674,保留原文,数字或百分比
+data/paintings/artists.lua,21,9,,description,"Zeeman was a maritime painter who used his experience as a sailor in his work. He claimed to have actually seen the mythical subjects depicted in his paintings, but most assume the excessive drinking caused him to hallucinate.",泽曼是一位海洋画家，他将自己作为水手的经历融入作品。他声称亲眼见过画中的神话生物，但大多数人认为那是他酗酒产生的幻觉。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,24,16,,name,Olivia Brush,奥利维娅·布拉什,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,25,21,,last_name,Brush,布拉什,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,26,21,,born_died,1873 - 1966,1873 - 1966,保留原文,数字或百分比
+data/paintings/artists.lua,28,9,,description,"Brush is famous for her paintings depicting life in the Old West. In 1925 she wrote ""Painters are adventurers, and the beauty of the Old West invites us to dare all things.""",布拉什以描绘美国西部生活的画作闻名。她在1925年写道：“画家是冒险家，而西部荒野的美丽鼓舞着我们无所畏惧。”,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,31,16,,name,Francis Frittata,弗朗西斯·弗里塔塔,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,32,21,,last_name,Frittata,弗里塔塔,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,33,21,,born_died,1928 - 2010,1928 - 2010,保留原文,数字或百分比
+data/paintings/artists.lua,35,9,,description,"Often referred to as the ""Godfather of fantasy art"", Frittata is known for his epic paintings. Starting with comic books at a young age, he developed a style that made his art a popular choice for album covers.",弗里塔塔常被称为“奇幻艺术教父”，以史诗般的画作闻名。他年少时从漫画起步，逐渐形成的风格使他的作品成为唱片封面的热门之选。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,38,16,,name,Juan Cáton I,胡安·卡顿一世,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,39,21,,last_name,Cáton I,卡顿一世,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,40,21,,born_died,1560 - 1627,1560 - 1627,保留原文,数字或百分比
+data/paintings/artists.lua,41,23,,description,The one to set off the generational family tradition of painting still lifes.,他开创了这个家族世代绘制静物画的传统。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,44,16,,name,Sumi Melaine,苏米·梅莱恩,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,45,21,,last_name,Melaine,梅莱恩,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,46,21,,born_died,2002 - present,2002年至今,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,48,9,,description,"Melaine's work is everywhere, from metropolitan galleries to video games. Even in this one! With her unique approach to art videos she gained millions of followers worldwide, and quickly grew to be one of the most successful artists at a young age.",梅莱恩的作品随处可见，从大都市的画廊到电子游戏，就连这款游戏里也有！她以独特的艺术视频吸引了全球数百万粉丝，年纪轻轻便成为最成功的艺术家之一。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,51,16,,name,Baruch Knausernmann,巴鲁赫·克瑙瑟恩曼,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,52,21,,last_name,Knausernmann,克瑙瑟恩曼,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,53,21,,born_died,1899 - 1961,1899 - 1961,保留原文,数字或百分比
+data/paintings/artists.lua,55,9,,description,"Known throughout his lifetime as a master of deep messages inlaid with tiny strokes, his reputation still grows long after passing.",他生前便以细微笔触传达深刻寓意而被尊为大师，逝世多年后声誉仍与日俱增。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,58,16,,name,Archelio Morthy,阿尔凯利奥·莫西,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,59,21,,last_name,Morthy,莫西,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,60,21,,born_died,1891 - 1981,1891 - 1981,保留原文,数字或百分比
+data/paintings/artists.lua,62,9,,description,"Morthy is known for painting vibrant nightlife scenes of clubs in the Jazz Age and Swing Era. Starting out as a portrait painter, he gradually shifted to a more vibrant aesthetic, focusing on portraying the nightlife culture.",莫西以描绘爵士时代和摇摆乐时代生机盎然的俱乐部夜生活而闻名。他最初是一名肖像画家，后来逐渐转向更鲜活的美学，专注于描绘夜生活文化。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,65,16,,name,Phitemkha,菲特姆卡,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,66,21,,last_name,Phitemkha,菲特姆卡,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,67,21,,born_died,~2110 BCE,约公元前2110年,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/artists.lua,68,23,,description,Highly esteemed royal artist from the Kingdom of Tubituti.,图比图提王国备受尊敬的皇家艺术家。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,3,17,,title,Empty Breakfast,无人的早餐,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,5,16,,year,1920,1920,保留原文,数字或百分比
+data/paintings/paintings.lua,8,9,,description,"If there is breakfast, but no one around to taste it, will it have flavor? With that question in mind Cáton drew his most famous still life. While controversial at its time for containing a mundane low-class milk carton, in modern day it's highly praised by critics for expanding the boundaries of fine art.",如果有一份早餐，却没人品尝，它还会有味道吗？怀着这个疑问，卡顿创作了他最著名的静物画。画中寻常的廉价牛奶盒在当时颇受争议，如今却因拓展了美术的边界而备受评论家赞誉。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,12,17,,title,The Lonely Mermaid,孤独的人鱼,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,14,16,,year,1658,1658,保留原文,数字或百分比
+data/paintings/paintings.lua,17,9,,description,"Yearning for contact beyond the depths of the ocean, a lonely mermaid waits from a small rock among the calm waves. Her patience is rewarded, as she hears the bell of a ship approaching from the horizon. Will these people be the new friends she was looking for?",一位渴望与海底之外的世界接触的孤独人鱼，在平静海浪间的一块小礁石上等待。她的耐心终于有了回报：地平线上，一艘驶近的船传来了铃声。这些人会成为她一直期盼的新朋友吗？,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,21,17,,title,Girl in the Woods,林中少女,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,23,16,,year,1952,1952,保留原文,数字或百分比
+data/paintings/paintings.lua,26,9,,description,"On her way to bring tasty goods to her lovely grandmother, a fragile little girl decides to take a shortcut through a dark forest. The silence of the woods is masked by the crows, warning her for the danger that lurks within.",一位柔弱的小女孩带着美味的食物去看望亲爱的祖母，途中决定抄近路穿过一片黑暗的森林。林中的寂静被乌鸦的叫声打破，仿佛在警告她潜伏其中的危险。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,30,17,,title,Quick Draw,快枪决胜,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,32,16,,year,1919,1919,保留原文,数字或百分比
+data/paintings/paintings.lua,35,9,,description,"When Wild West architects make a town that doesn't even fit two people inside, matters will have to be settled.",当西部荒野的建筑师造出一座连两个人都容不下的小镇时，有些事情就只能靠决斗解决了。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,39,17,,title,Medusa's Demise,美杜莎之死,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,41,16,,year,1956,1956,保留原文,数字或百分比
+data/paintings/paintings.lua,44,9,,description,A mythologically accurate depiction of Medusa being confronted with the consequences of her actions.,一幅符合神话记载的画作，描绘了美杜莎面对自己行为的后果。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,48,17,,title,Pome and Peaches,石榴与桃子,已校对,Pome 可能指仁果；需查看原画确认具体果实后确定译名。；已逐句对照英文校对；画册实际排版仍待验证；原文 Pome 结合画作图像中的石榴译出
+data/paintings/paintings.lua,50,16,,year,1593,1593,保留原文,数字或百分比
+data/paintings/paintings.lua,53,9,,description,No one is quite sure what Cáton I's obsession was with peaches. Who is going to eat that many peaches?,没人说得清卡顿一世为什么如此迷恋桃子。谁吃得完那么多桃子？,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,57,17,,title,Valley of Wheat,麦穗之谷,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,59,16,,year,~2110 BCE,约公元前2110年,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,62,9,,description,"The only remaining known depiction of the Valley of Wheat, which existed a long time ago in the Kingdom of Tubituti.",目前已知唯一一幅描绘麦穗之谷的画作。很久以前，这座山谷曾坐落于图比图提王国。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,66,17,,title,Small Victory,小小的胜利,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,68,16,,year,1943,1943,保留原文,数字或百分比
+data/paintings/paintings.lua,70,23,,description,"""They all look like ants"", Emperor Leon thinks to himself as he smiles, internally.",“他们看起来都像蚂蚁。”里昂皇帝心想，暗暗一笑。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,74,17,,title,Jellyfish Jazz,水母爵士,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,76,16,,year,1930,1930,保留原文,数字或百分比
+data/paintings/paintings.lua,79,9,,description,"A club where smooth Jazz is played by famous Jazz musicians while the guests are in the presence of a rare King Jellyfish. The music seems to calm it down, floating on the rhythm.",在一间俱乐部里，著名爵士乐手演奏着悠扬的乐曲，宾客们则与一只罕见的王水母同处一室。音乐似乎让它平静下来，随着节奏漂浮。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,83,17,,title,Space Chase,太空追逐,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,85,16,,year,2026,2026,保留原文,数字或百分比
+data/paintings/paintings.lua,88,9,,description,What is an effort to save only a farmer and his cow feels like a battle whose outcome will decide the fate of humanity.,明明只是为了营救一位农夫和他的牛，却像是一场胜负将决定人类命运的战役。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,92,17,,title,King of the Farm,农场之王,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/paintings/paintings.lua,97,9,,description,"A quarrel among animals on who is King of the Farm. The peacock, the prettiest. The rooster, the loudest. The dog, the strongest. Amidst their squabble is the hen, tending to her children.",动物们争论谁才是农场之王：孔雀最美，公鸡嗓门最大，狗最强壮。它们争吵不休时，母鸡正在照看自己的孩子。,已校对,已逐句对照英文校对；画册实际排版仍待验证
+data/phone/characters.lua,3,16,,name,Detective Jean-Louis,让-路易侦探,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,5,9,,description,This is the best detective around! But what is a detective without an assistant? Help finding the missing puzzle pieces that will solve the unsolved mysteries.,这位可是附近最厉害的侦探！不过，侦探怎么能没有助手呢？帮他找出缺失的线索，解开悬而未决的谜案吧。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,8,16,,name,Danny Hares,丹尼·黑尔斯,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,10,9,,description,This guy is designing a brand new card game called Era of Might. He's looking for a cool new art style for the artwork on the cards. Can you help him out?,他正在设计一款全新的卡牌游戏《力量纪元》，想为卡牌插画寻找酷炫的新风格。你能帮帮他吗？,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,13,16,,name,Professor Doomkopf,杜姆科普夫教授,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,15,9,,description,The smartest human alive! He invented an app that allows you to see aliens hidden in pictures. Can you help him find these impostors?,世上最聪明的人！他发明了一款应用，可以看出藏在图片中的外星人。你能帮他找出这些冒牌货吗？,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,18,16,,name,Dating Girl,约会女孩,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/characters.lua,19,23,,description,A girl who's dating a guy,正在和一名男生约会的女孩,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/crab_lines.lua,2,5,,,"Where to, boss?",老板，想去哪儿？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,3,5,,,What's the plan today?,今天有什么计划？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,4,5,,,I'm not spying on you!,我可没监视你！,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,5,5,,,Where are we going?,我们要去哪儿？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,6,5,,,What do you want to do?,你想做什么？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,7,5,,,How can I help you?,我能帮你什么？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对 已根据手机助手文本宽度重新核对断行。
+data/phone/crab_lines.lua,8,5,,,Do you need assistance?,你需要帮忙吗？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,9,5,,,Let me help you!,让我来帮你！,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,10,5,,,Need some help?,需要帮忙吗？,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/crab_lines.lua,11,5,,,I'm here to help!,我就是来帮忙的！,已校对,手机助手随机提示；游戏内显示待验证；已逐条对照英文校对
+data/phone/quests/card_designer.lua,4,17,,title,Rank 1,1级,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,22,,description,Create artwork for a hero card named ,为一张名叫,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,66,,description,Cowering Squire,胆小侍从,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,88,,description,". When attacked, it moves back into the hand of the player. You have ",的英雄卡创作插画。受到攻击时，它会退回玩家的手牌。你可以,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,164,,description,creative freedom,自由创作,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,187,,description,", as long as you put in some ",，只要你,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,223,,description,proper effort,认真投入,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,9,243,,description,.,即可。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,17,22,,description,Next up is a wisdom card named ,下一张是,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/card_designer.lua,17,60,,description,Jar of Desire,欲望之壶,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,17,80,,description,". In case you forgot what it does, it allows the player to draw two cards from their deck.",这张智慧卡；它能让玩家从牌库抽两张牌，别忘了。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/card_designer.lua,25,22,,description,The final card for this rank is a creature card named ,本级最后的生物卡是,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/card_designer.lua,25,83,,description,Brubble,布拉布尔,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/card_designer.lua,25,97,,description,". If it dies on your opponent's turn, you'll start your turn with an extra ruby.",。它在对手回合被消灭时，你的下回合开始时多一颗红宝石。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/card_designer.lua,34,17,,description,You designed all the cards! Great job!,你设计了所有卡牌！做得好！,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/dating_girl.lua,4,17,,title,I love cats,我爱猫,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/dating_girl.lua,6,9,,description,"I told him I love cats, but I actually don't own any cats. Can you change my picture with some cats?",我告诉他我爱猫，实际上却一只都没养。能帮我把猫加到照片里吗？,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/detective.lua,9,17,,title,The Apple Pie Gourmand,苹果派食客,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,13,22,,description,Someone took a piece from Ms. Roseline's apple pie. She left to check on a ,露丝琳女士听到,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/detective.lua,13,104,,description,"shrill, high-pitched noise",刺耳的高音,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/detective.lua,13,137,,description,", and when she came back, part of her apple pie was gone! Look for ",，出去查看。回来时苹果派被偷了一块！请找出,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/detective.lua,13,211,,description, someone with a device,带着装置的人,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,13,240,,description, to make such a sound.,，装置能发出这种声音。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据手机助手文本宽度重新核对断行。
+data/phone/quests/detective.lua,17,22,,description,"You found out it was the lifeguard's whistle which made the noise, but he told the detective his whistle was stolen. In return, he found ",你发现那阵声音来自救生员的哨子，但他告诉侦探自己的哨子被偷了。他反而在现场发现了,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,17,166,,description,sunglasses,太阳镜,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,17,183,,description, on the crime scene.,。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,24,22,,description,"The kid indeed stole a piece of the apple pie, but he told the detective he was paid to steal it for someone else. He drew a ",那个孩子确实偷了一块苹果派，但他告诉侦探，自己是受人雇用去偷的。他画了一张新嫌疑人的,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,24,154,,description,composition sketch,画像,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,24,179,,description, of the new suspect.,。,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/detective.lua,31,17,,description,It turned out to be the kid with the kraken hat. He paid another kid to steal the pie for him. Well done!,原来是戴海怪帽的孩子。他花钱雇另一个孩子替他偷派。干得好！,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/professor.lua,9,16,,description,Use the Alien Monocle 3000 to find hidden aliens. ,用外星单片镜3000寻找隐藏的外星人。 ,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/professor.lua,10,13,,description,"Look for people, animals, or objects you didn't see before",留意原先没有出现的人、动物或物品,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/professor.lua,10,78,,description,", or which have their ",，或,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据游戏画面调整断行，完整支线待验证。
+data/phone/quests/professor.lua,11,13,,description,appearance changed,外貌有变化的对象,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。 已根据游戏画面调整断行，完整支线待验证。
+data/phone/quests/professor.lua,11,38,,description,!,！,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/quests/professor.lua,30,17,,title,Day 1,第1天,已校对,已对照英文及同一任务的相邻文段校对含义、名称和线索；任务界面排版待游戏内验证。
+data/phone/tos.lua,3,17,,title,TERMS OF SERVICE,服务条款,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,6,17,,title,1. OUR SERVICES,1. 我们的服务,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,8,9,,text,"The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.",对于任何司法辖区或国家，如果传播或使用本服务所提供的信息会违反当地法律法规，或使我们承担当地的登记义务，则该信息不拟向当地任何个人或实体传播，也不拟供其使用。因此，选择从其他地点访问本服务的人士系自行作出该决定，并在当地法律适用的范围内独自负责遵守当地法律。,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,11,17,,title,2. INTELLECTUAL PROPERTY RIGHTS,2. 知识产权,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,12,16,,text,"Our intellectual property
+We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the ""Content""), as well as the trademarks, service marks, and logos contained therein (the ""Marks"").
+
+Our Content and Marks are protected by copyright and trademark laws (and various other intellectual property rights and unfair competition laws) and treaties around the world.
+
+The Content and Marks are provided in or through the Services ""AS IS"" for your personal, non-commercial use only.
+Your use of our Services
+Subject to your compliance with these Legal Terms, including the ""PROHIBITED ACTIVITIES"" section below, we grant you a non-exclusive, non-transferable, revocable license to:
+access the Services; and
+download or print a copy of any portion of the Content to which you have properly gained access,
+solely for your personal, non-commercial use.
+
+Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: ai-assistant@evilcorp.com. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+
+We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
+
+Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
+Your submissions and contributions
+Please review this section and the ""PROHIBITED ACTIVITIES"" section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
+
+Submissions: By directly sending us any question, comment, suggestion, idea, feedback, or other information about the Services (""Submissions""), you agree to assign to us all intellectual property rights in such Submission. You agree that we shall own this Submission and be entitled to its unrestricted use and dissemination for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
+
+Contributions: The Services may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality during which you may create, submit, post, display, transmit, publish, distribute, or broadcast content and materials to us or through the Services, including but not limited to text, writings, video, audio, photographs, music, graphics, comments, reviews, rating suggestions, personal information, or other material (""Contributions""). Any Submission that is publicly posted shall also be treated as a Contribution.
+
+You understand that Contributions may be viewable by other users of the Services and possibly through third-party websites.
+
+When you post Contributions, you grant us a license (including use of your name, trademarks, and logos): By posting any Contributions, you grant us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to: use, copy, reproduce, distribute, sell, resell, publish, broadcast, retitle, store, publicly perform, publicly display, reformat, translate, excerpt (in whole or in part), and exploit your Contributions (including, without limitation, your image, name, and voice) for any purpose, commercial, advertising, or otherwise, to prepare derivative works of, or incorporate into other works, your Contributions, and to sublicense the licenses granted in this section. Our use and distribution may occur in any media formats and through any media channels.
+
+This license includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide.
+
+You are responsible for what you post or upload: By sending us Submissions and/or posting Contributions through any part of the Services or making Contributions accessible through the Services by linking your account through the Services to any of your social networking accounts, you:
+confirm that you have read and agree with our ""PROHIBITED ACTIVITIES"" and will not post, send, publish, upload, or transmit through the Services any Submission nor post any Contribution that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
+to the extent permissible by applicable law, waive any and all moral rights to any such Submission and/or Contribution;
+warrant that any such Submission and/or Contributions are original to you or that you have the necessary rights and licenses to submit such Submissions and/or Contributions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions and/or Contributions; and
+warrant and represent that your Submissions and/or Contributions do not constitute confidential information.
+You are solely responsible for your Submissions and/or Contributions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
+
+We may remove or edit your Content: Although we have no obligation to monitor any Contributions, we shall have the right to remove or edit any Contributions at any time without notice if in our reasonable opinion we consider such Contributions harmful or in breach of these Legal Terms. If we remove or edit any such Contributions, we may also suspend or disable your account and report you to the authorities.
+        ","我们的知识产权
+我们拥有或获许可使用本服务中所有知识产权，包括本服务的全部源代码、数据库、功能、软件、网站设计、音频、视频、文字、照片及图形（统称“内容”），以及其中包含的商标、服务标记和标志（统称“标记”）。
+
+我们的内容和标记受世界各地的版权法、商标法、其他知识产权法、反不正当竞争法及相关条约保护。
+
+内容和标记通过本服务按“现状”提供，仅供您个人非商业使用。
+您对本服务的使用
+在您遵守本法律条款（包括下方“禁止的活动”部分）的前提下，我们授予您非独占、不可转让、可撤销的许可，使您仅为个人非商业用途：
+访问本服务；以及
+下载或打印您已合法获取的任何内容的副本。
+
+除本节或本法律条款其他部分所规定的情况外，未经我们事先明确书面许可，不得为任何商业目的复制、再制、汇编、再发布、上传、张贴、公开展示、编码、翻译、传输、分发、出售、许可或以其他方式利用本服务的任何部分、任何内容或标记。
+
+如果您希望以本节或本法律条款其他部分规定之外的方式使用本服务、内容或标记，请将请求发送至：ai-assistant@evilcorp.com。如我们允许您张贴、再制或公开展示本服务或内容的任何部分，您必须说明我们是本服务、内容或标记的所有者或许可方，并确保在张贴、再制或展示我们的内容时，任何版权或所有权声明均予以显示或保持可见。
+
+我们保留未明确授予您的与本服务、内容及标记有关的一切权利。
+
+任何侵犯上述知识产权的行为都构成对本法律条款的重大违反，您使用本服务的权利将立即终止。
+您的提交内容和贡献内容
+在使用本服务前，请仔细阅读本节及“禁止的活动”部分，了解您通过本服务张贴或上传任何内容时：(a) 授予我们的权利，以及 (b) 您承担的义务。
+
+提交内容：当您直接向我们发送有关本服务的任何问题、评论、建议、想法、反馈或其他信息（“提交内容”）时，即表示您同意将该提交内容的全部知识产权转让给我们。您同意我们拥有该提交内容，并有权为任何合法目的（无论商业或其他目的）不受限制地使用和传播该内容，而无须注明您或向您支付报酬。
+
+贡献内容：本服务可能邀请您聊天、向博客、留言板、在线论坛及其他功能投稿或参与其中。您可能在此过程中向我们或通过本服务创作、提交、张贴、展示、传输、发布、分发或广播内容及材料，包括但不限于文字、文章、视频、音频、照片、音乐、图形、评论、评价、评分建议、个人信息或其他材料（“贡献内容”）。任何公开张贴的提交内容也将被视为贡献内容。
+
+您理解，本服务的其他用户以及第三方网站的访问者可能看到贡献内容。
+
+您张贴贡献内容时授予我们的许可（包括使用您的姓名、商标和标志）：通过张贴任何贡献内容，您授予我们不受限制、无限制、不可撤销、永久、非独占、可转让、免版税、已付清、全球范围的权利和许可，使我们可以为任何商业、广告或其他目的使用、复制、再制、分发、出售、转售、发布、广播、重新命名、储存、公开表演、公开展示、重新排版、翻译、全部或部分摘录和利用您的贡献内容（包括但不限于您的形象、姓名及声音），制作衍生作品或将其纳入其他作品，并将本节授予的许可再许可给他人。我们的使用和分发可通过任何媒体形式及媒体渠道进行。
+
+该许可包括在适用时使用您的姓名、公司名称、特许经营名称，以及您提供的任何商标、服务标记、商号、标志和个人及商业形象。
+
+您对自己张贴或上传的内容负责：当您通过本服务任何部分向我们发送提交内容和／或张贴贡献内容，或通过本服务将您的账户与任何社交网络账户关联，使贡献内容可通过本服务访问时，您：
+确认已阅读并同意我们的“禁止的活动”，并且不会通过本服务张贴、发送、发布、上传或传输任何非法、骚扰、仇恨、有害、诽谤、淫秽、霸凌、辱骂、歧视、威胁任何个人或群体、露骨色情、虚假、不准确、欺骗或误导的提交内容或贡献内容；
+在适用法律允许的范围内，放弃对上述提交内容和／或贡献内容享有的所有精神权利；
+保证上述提交内容和／或贡献内容由您原创，或您拥有提交这些内容所需的权利和许可，并有充分权限向我们授予上述与提交内容和／或贡献内容有关的权利；以及
+保证并声明您的提交内容和／或贡献内容不构成保密信息。
+您对自己的提交内容和／或贡献内容独自承担责任，并明确同意赔偿我们因您违反 (a) 本节、(b) 任何第三方知识产权或 (c) 适用法律而可能遭受的一切损失。
+
+我们可以删除或编辑您的内容：尽管我们没有义务监控任何贡献内容，但如果我们合理地认为某些贡献内容有害或违反本法律条款，我们有权随时不经通知删除或编辑。如果我们删除或编辑此类内容，也可能暂停或禁用您的账户并向有关当局举报。",已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,56,17,,title,3. USER REPRESENTATIONS,3. 用户声明,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,57,16,,text,"By using the Services, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Legal Terms; (4) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Services; (5) you will not access the Services through automated or non-human means, whether through a bot, script or otherwise; (6) you will not use the Services for any illegal or unauthorized purpose; and (7) your use of the Services will not violate any applicable law or regulation.
+
+If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Services (or any portion thereof).
+        ","使用本服务即表示您声明并保证：(1) 您提交的所有注册信息真实、准确、最新且完整；(2) 您会维护此类信息的准确性，并在必要时及时更新注册信息；(3) 您具有法律行为能力，并同意遵守本法律条款；(4) 您在居住地司法辖区内不是未成年人，或若您是未成年人，已获得父母许可使用本服务；(5) 您不会通过机器人、脚本或其他自动化或非人工方式访问本服务；(6) 您不会将本服务用于任何非法或未经授权的目的；以及 (7) 您对本服务的使用不会违反任何适用法律法规。
+
+如果您提供任何虚假、不准确、过时或不完整的信息，我们有权暂停或终止您的账户，并拒绝您当前及未来对本服务或其任何部分的一切使用。",已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,64,17,,title,4. YOUR DATA,4. 您的数据,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,66,9,,text,"By accepting these terms we are allowed to do whatever we want, like spying on you, tracking and selling your data, etc.",接受这些条款即表示我们可以为所欲为，例如监视您、追踪并出售您的数据等等。,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,69,17,,title,5. PURCHASES AND PAYMENT,5. 购买与付款,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,70,16,,text,"You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in US dollars.
+
+You agree to pay all charges at the prices then in effect for your purchases and any applicable shipping fees, and you authorize us to charge your chosen payment provider for any such amounts upon placing your order. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment.
+
+We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
+        ","您同意为通过本服务进行的所有购买提供最新、完整且准确的购买和账户信息。您还同意及时更新账户和付款信息，包括电子邮件地址、付款方式及付款卡的到期日期，以便我们完成交易并在需要时与您联系。我们认为需要时，将在购买价格上加收销售税。我们可能随时更改价格。所有付款均以美元结算。
+
+您同意按购买时的有效价格支付所有费用及适用的运费，并授权我们在您下单时向您选择的支付服务商收取这些款项。即使我们已经要求付款或收到付款，我们仍保留纠正价格错误的权利。
+
+我们保留拒绝通过本服务下达的任何订单的权利。我们可自行决定限制或取消每人、每户或每笔订单的购买数量。这些限制可能包括由同一客户账户、同一付款方式和／或使用相同账单地址或送货地址下达的订单。对于我们自行判断似乎由经销商、转售商或分销商下达的订单，我们保留限制或禁止的权利。",已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,79,17,,title,6. SOFTWARE,6. 软件,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,81,9,,text,"We may include software for use in connection with our Services. If such software is accompanied by an end user license agreement (""EULA ""), the terms of the EULA will govern your use of the software. If such software is not accompanied by a EULA, then we grant to you a non-exclusive, revocable, personal, and non-transferable license to use such software solely in connection with our services and in accordance with these Legal Terms. Any software and any related documentation is provided ""AS IS"" without warranty of any kind, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. You accept any and all risk arising out of use or performance of any software. You may not reproduce or redistribute any software except in accordance with the EULA or these Legal Terms.",我们可能提供与本服务相关的软件。如果软件附带最终用户许可协议（“EULA”），您对该软件的使用将受该协议约束。如果软件未附带 EULA，我们授予您非独占、可撤销、个人且不可转让的许可，仅供您依照本法律条款并结合本服务使用该软件。任何软件及相关文档均按“现状”提供，不作任何明示或默示保证，包括但不限于适销性、特定用途适用性或不侵权的默示保证。您承担因使用或运行任何软件而产生的全部风险。除非符合 EULA 或本法律条款，否则您不得复制或重新分发任何软件。,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,84,17,,title,7. MISCELLANEOUS,7. 其他事项,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/tos.lua,86,9,,text,"These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.",本法律条款以及我们在本服务上或就本服务发布的任何政策或操作规则，构成您与我们之间的完整协议和理解。我们未行使或执行本法律条款的任何权利或条款，不构成对该权利或条款的放弃。本法律条款在法律允许的最大范围内生效。我们可随时将任何或全部权利和义务转让给他人。对于因超出我们合理控制范围的原因造成的损失、损害、延误或未能采取行动，我们不承担责任。如果本法律条款的任何条款或其部分被认定为非法、无效或不可执行，该条款或部分应被视为可从本法律条款中分离，且不影响其余条款的有效性和可执行性。本法律条款或对本服务的使用不会在您与我们之间建立合资、合伙、雇佣或代理关系。您同意不得仅因本法律条款由我们起草而作出对我们不利的解释。您在此放弃可能基于本法律条款采用电子形式以及双方未签字而提出的任何抗辩。,已校对,已逐段对照英文校对条款含义、编号及邮箱；长文在手机页面内的显示与滚动仍待验证。
+data/phone/wrong_numbers.lua,4,20,,text,Hello!,你好！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,10,13,butler,text,"Sorry, wrong number.",抱歉，打错了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,16,13,butler,text,WHO IS CALLING ME?,谁打来的？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,22,13,butler,text,"S-s-sorry, I dialed the wrong number.",对、对、对不起，我打错了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,26,13,butler,text,NEVER CALL THIS NUMBER AGAIN!,不许再打这个号码！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,32,13,butler,text,"Y-yes, sir!",是、是的，先生！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,39,13,butler,text,"Holy crap, that guy was so freaking mad!",天哪，那家伙也太凶了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,45,13,butler,text,"Hello, who is this?",喂，哪位？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,51,13,butler,text,"Hello, is your refrigerator running?",您好，您家的冰箱会跑吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证；冰箱英文双关保留荒诞感，场景效果待确认
+data/phone/wrong_numbers.lua,58,13,butler,text,"Aw, man...",唉，真是的……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,64,13,butler,text,Meow?,喵？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,70,13,butler,text,Kitty!,小猫咪！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,74,13,butler,text,Mrrp mrrow!,喵呜，喵！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,80,13,butler,text,"Aww, you're such a cutie!",哎呀，你可真可爱！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,87,13,butler,text,Did that cat just hang up on me?!,那只猫刚刚挂我电话了？！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,93,13,butler,text,Hi there!,你好啊！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,99,13,butler,text,"Hello- Hey, have I seen you before?",你好——咦，我是不是见过你？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,103,13,butler,text,"Uhm... Yeah, you probably know me from that one interview in the local newspaper!",呃……对，你可能是在本地报纸上的一篇采访里见过我！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,109,13,butler,text,You're right! It's you!,对！就是你！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,115,13,butler,text,"Haha, well... I accidentally dialed the wrong number. My bad.",哈哈，那个……我不小心打错号码了，不好意思。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,119,13,butler,text,"Hey, no worries man! Have a good day!",嗨，没事！祝你今天愉快！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,125,20,butler,text,What a nice guy.,真是个好人。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,131,13,butler,text,Y-yes? What do you want?,喂、喂？你想干什么？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,137,13,butler,text,Ehh... Wrong number?,呃……打错了？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,143,13,butler,text,How did you get this number?,你怎么得到这个号码的？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,149,13,butler,text,Uhhh... I-,呃……我——,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,153,13,butler,text,Who are you working for?,你在为谁做事？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,159,13,butler,text,I-I just dialed the wrong number!,我、我只是打错了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,163,13,butler,text,"You don't know who you're messing with, pal.",朋友，你不知道自己惹上了谁。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,170,13,butler,text,Gulp!,咕咚！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,176,13,butler,text,Hello?,喂？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,182,13,butler,text,"Oh. Sorry kiddo, I accidentally dialed the wrong number!",哦，抱歉，小朋友，我不小心打错了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,188,13,butler,text,"Hello, who is this?",喂，哪位？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,194,13,butler,text,"Oh, sorry ma'am. I dailed the wrong number!",哦，抱歉，女士。我打错号码了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,198,13,butler,text,What?,什么？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,204,13,butler,text,"I said: Sorry ma'am, I dailed the wrong number.",我说：抱歉，女士，我打错号码了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,208,13,butler,text,.[.1].[.1].[.1] What?,.[.1].[.1].[.1]什么？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,214,13,butler,text,It's okay ma'am. I'll just hang up now.,没事，女士。我现在就挂电话。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,220,13,butler,text,.[.1].[.1].[.1]What?,.[.1].[.1].[.1]什么？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,226,13,butler,text,Uhm... Wrong number?,呃……打错了？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,232,13,butler,text,Hewwo! Who is dis? OwO,泥好呀！泥是谁呀？OwO,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,238,13,butler,text,WRONG NUMBER!,打错了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,244,13,butler,text,Yoooooo! What's up my dude?!,哟——！哥们，最近怎么样？！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,250,13,butler,text,"Sorry, do I know you?",抱歉，我们认识吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,254,13,butler,text,"Yo chat, this dude don't know me!",老铁们，这哥们居然不认识我！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证；Chat/Chad 双关改写为“老铁”
+data/phone/wrong_numbers.lua,260,13,butler,text,Who is Chad? Is that you friend?,老铁是谁？是你的朋友吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证；Chat/Chad 双关改写为“老铁”
+data/phone/wrong_numbers.lua,264,13,butler,text,"Sorry man, gotta go, but don't forget to follow, alright?",抱歉兄弟，我得走了，别忘了关注我啊！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,271,13,butler,text,Follow...?,关注……？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,277,13,butler,text,What is it? I'm kind of in the middle of something right now.,什么事？我现在正忙着呢。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,283,13,butler,text,W-,我——,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,287,13,butler,text,"Hey, do you happen to know any rich people? And I mean real RICH people, y' know?",嘿，你认不认识有钱人？我是说那种特别有钱的，你懂吧？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,293,13,butler,text,"N-no! I don't think I do, SORRY!",不、不认识！应该没有，抱歉！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,299,13,butler,text,Hello! You're calling me for my cleaning service?,您好！您是打来预约清洁服务的吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,305,13,butler,text,No.,不是。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,311,13,butler,text,Hi~,嗨～,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,317,13,butler,text,Bye~,拜拜～,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,323,13,butler,text,"You're not calling in sick today, are you?",你今天不是要请病假吧？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,329,13,butler,text,"No, sorry, I don't work for you...",不是，抱歉，我不在您手下工作……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,333,13,butler,text,"That's right, you don't! YOU'RE FIRED!",没错，你不用再干了！你被开除了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,340,13,butler,text,Mean.,真刻薄。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,346,13,butler,text,H-hello?,喂、喂？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,352,13,butler,text,"Oh, I'm sorry! I just dialed the wrong number!",哦，抱歉！我打错号码了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,358,13,butler,text,What.,什么。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,364,13,butler,text,"Sorry, wrong number.",抱歉，打错了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,370,13,butler,text,".[.2].[.2].[.2]Hang up the phone, now.",.[.2].[.2].[.2]现在，挂掉电话。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,376,13,butler,text,W-what?,什、什么？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,380,13,butler,text,"Fine, I'll do it myself.",好吧，我自己来。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,387,13,butler,text,What the...,什么鬼……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,393,13,butler,text,Are you a real villain?,你是一个真正的恶棍吗？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,399,13,butler,text,"Hmm... No, I don't think I am.",嗯……不，我觉得不是。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,403,13,butler,text,Alright! I can see... that I'm wasting my time here.,好吧！我看出来了……我是在这里浪费时间。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,410,13,butler,text,Weird.,真奇怪。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,416,13,butler,text,Hello!,你好！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,422,13,butler,text,"Sorry, wrong number.",抱歉，打错了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,428,13,butler,text,Hello!,你好！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,434,13,butler,text,"Sorry, wrong number.",抱歉，打错了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,440,13,butler,text,"Hello, Garry here! ...What? ...Oh yes. And Sammy.",你好，我是加里！……什么？……哦对，还有萨米。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,446,13,butler,text,"Sorry, wrong number.",抱歉，打错了。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,452,13,butler,text,What foolish mortal dares approach the dark lord at this hour?,哪个愚蠢的凡人敢在这个时候打扰黑暗领主？,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,458,13,butler,text,"S-sorry, wrong number!",对、对不起，打错了！,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,462,13,butler,text,You imbecile! [.2]Your next mistake will be your last...,你这蠢货！[.2]下一次犯错就是你的死期……,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+data/phone/wrong_numbers.lua,469,13,butler,text,I feel like I should take a shower.,我觉得我该去洗个澡。,已校对,初译；需结合电话角色或报纸画面逐条复核。；已逐句对照英文校对，实际电话场景排版待验证
+src/cutscenes/chapter_intro.lua,21,49,,,Chapter ,章节 ,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/cutscenes/chapter_intro.lua,21,92,,display_text,"
+(Teaser)","
+（预告）",已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/cutting/new_solution_handler.lua,136,23,,,NOT ENOUGH COVERED,NOT ENOUGH COVERED,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/new_solution_handler.lua,164,15,,,SUCCESS CORRECTED!,SUCCESS CORRECTED!,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/new_solution_handler.lua,463,15,,,Not relevant,Not relevant,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/new_solution_handler.lua,505,15,,,Too much redundant!,Too much redundant!,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/new_solution_handler.lua,517,15,,,Too sloppy!,Too sloppy!,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/new_solution_handler.lua,558,11,,,It's good!,It's good!,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/solution_data.lua,6,13,,,I should remove this one...,我应该把这张移走……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,7,13,,,I don't think this one is working...,这张好像不太合适……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,8,13,,,This cutout isn't helping...,这张剪片好像没什么用……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,11,13,,,I should cut this out more neatly...,我应该把它剪得更整齐些……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,12,13,,,If I cut this out more precise it might work...,如果剪得更精确一点，说不定能行……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,13,13,,,This cutout might be too rough around the edges...,这张剪片的边缘可能太粗糙了……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,16,13,,,Did I cut out the whole thing?,我把整个物件都剪下来了吗？,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,17,13,,,There might be more to this picture I can cut out...,这张图片可能还有一部分需要剪下来……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,18,13,,,I think I need to cut out a bigger part...,我想我需要剪下更大的一块……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,21,13,,,Maybe I should move this one a bit...,或许我该把这张稍微挪一挪……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,22,13,,,Perhaps this is not the right spot...,也许这里不是正确的位置……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,23,13,,,I think this one is in the wrong place...,我觉得这张放错位置了……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,26,13,,,Perhaps part of this cutout is not necessary...,这张剪片的一部分可能是不需要的……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,27,13,,,This might include some useless stuff...,这里面可能剪进了一些没用的东西……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,28,13,,,Maybe I should not include a certain part of this...,也许我不该把其中一部分剪进来……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,31,13,,,I might have to rotate this a bit...,我可能得把它转一转……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,32,13,,,Perhaps this is rotated incorrectly...,也许它旋转的角度不对……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,33,13,,,I think I should rotate it...,我觉得应该把它旋转一下……,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,36,13,,,I already showed this one.,这张我已经展示过了。,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,37,13,,,I don't think they need me to send this one again.,我想他们不需要我再发一次。,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,38,13,,,I think I already shown this to them.,我好像已经把这张给他们看过了。,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,41,13,,,This cutout looks good!,这张剪片看起来不错！,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,42,13,,,I'm proud of this cutout!,我为这张剪片感到骄傲！,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_data.lua,43,13,,,This cutout is perfect as it is!,这张剪片已经完美了！,已校对,初译；待复核动态拼接、游戏界面及语境。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/cutting/solution_handler.lua,166,17,,,Goal color is not found in other source. (The newspaper does not contain one or more of the solution colors that the sketch has.),Goal color is not found in other source. (The newspaper does not contain one or more of the solution colors that the sketch has.),保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/solution_owner.lua,34,44,,,This pixel has no solution area. x = ,This pixel has no solution area. x = ,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/cutting/solution_owner.lua,45,31,,,Make sure to collect solution data first,Make sure to collect solution data first,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/game_manager.lua,116,33,,,No default for setting ,No default for setting ,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/phone/games/memory/game_manager.lua,36,50,,display_text,"FORBIDDEN
+FRUIT","禁忌
+之果",已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,58,16,,,I love this game!,我喜欢这个游戏！,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,229,25,,,"FORBIDDEN
+FRUIT","禁忌
+之果",已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,257,20,,text,"Welcome to Forbidden Fruit! I hope you have a good memory.
+
+[Click anywhere to continue]","欢迎来到禁忌之果！希望你的记性够好。
+
+【点击任意处继续】",已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。 根据小游戏实际画面调整换行，待完整流程验证。
+src/phone/games/memory/game_manager.lua,260,20,,text,"The game is simple. Bubbles with fruit will float up, and you must click them.",规则很简单。水果气泡会向上飘，你需要点击它们。,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,264,13,,text,"But not all of them! You guessed it, some fruits are forbidden. Each round a new additional fruit will be added to that list.",但不能全点！没错，有些水果是禁果，每轮都会再添一种。,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。 根据小游戏实际画面调整换行，待完整流程验证。
+src/phone/games/memory/game_manager.lua,267,20,,text,Try to survive for 10 rounds!,努力撑过10轮吧！,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,294,25,,,"LEVEL
+","关卡
+",已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,297,50,,,these fruits,这些水果,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,297,68,,,this fruit,这种水果,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,306,17,,,Please don't feed me ,请不要喂我,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,307,17,,,I hate ,我讨厌,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,314,20,,text,Ready? GO!,准备好了吗？开始！,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,366,25,,,GAME OVER,游戏结束,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/games/memory/game_manager.lua,377,25,,,YOU WIN!,你赢了！,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/call/call.lua,281,56,,,On hold...,通话保持中……,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/contacts/contacts.lua,37,13,,,Here you can find the people you have called. Don't expect random people to add you as their contact though!,这里可以找到你打过电话的人。不过，别指望陌生人会把你加进他们的通讯录！,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/contacts/contacts.lua,41,13,,,"Click on a contact to view their profile! If you want to help them out, that's where you should go!",点击联系人可以查看资料！想帮他们的话，就去那里看看吧！,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/dial/dial.lua,41,20,,,Have you found any phone numbers to call?,找到可以拨打的电话号码了吗？,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/quest/quest.lua,450,32,,,There's no point in making an empty picture...,制作一张空白图片毫无意义……,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/quest/quest.lua,453,32,,,I don't need to send more than one cutout...,不需要发送超过一张剪片……,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/tos/tos.lua,27,20,,,Happy now?,这下满意了吗？,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/tos/tos.lua,31,20,,,Yeah this is gonna take a while...,看来这得花点时间了……,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/phone/screens/tos/tos.lua,35,20,,,"Here, let me speed that up for you...",来，让我帮你加快速度……,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/screens/home/home_manager.lua,46,50,,,Click to continue,点击继续,已校对,对照英文；主菜单和标题画面已在隔离副本截图
+src/screens/home/home_manager.lua,53,67,,,Version ,版本 ,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/screens/menu/main/menu.lua,18,16,,text,Play,开始游戏,已校对,对照英文；主菜单和标题画面已在隔离副本截图
+src/screens/menu/main/menu.lua,29,16,,text,Settings,设置,已校对,对照英文；主菜单和标题画面已在隔离副本截图
+src/screens/menu/main/menu.lua,36,16,,text,Exit,退出,已校对,对照英文；主菜单和标题画面已在隔离副本截图
+src/screens/menu/pause/pause_menu.lua,33,16,,text,Continue,继续,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/screens/menu/pause/pause_menu.lua,40,16,,text,Settings,设置,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/screens/menu/pause/pause_menu.lua,47,16,,text,Feedback,反馈,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/screens/menu/pause/pause_menu.lua,54,16,,text,Main Menu,主菜单,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/textbox/textbox.lua,99,15,,,init??,init??,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/textbox/textbox.lua,213,22,,,[MSD][is]?[sr]%.,[MSD][is]?[sr]%.,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/textbox/textbox.lua,222,43,,,%1 [pause=.2]%2,%1 [pause=.2]%2,保留原文,代码模式、错误诊断或开发日志，不翻译。
+src/workshop/canvas/canvas.lua,187,69,,,Step 3: Draw a simple sketch,第3步：画出简单草图,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证；根据隔离游戏画面调整长度，避免末字单独换行
+src/workshop/canvas/canvas.lua,196,14,,,Step 4: ,第4步：,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,196,29,,note_text,Note,记下,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,196,40,,, the missing elements,缺失的元素,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,205,14,,,Hold a cutout and ,拿住剪片，,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,205,39,,,press F,按F,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,205,53,,, to change its ,调整,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,205,75,,note_text,depth,层级,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,213,14,,,Step 7: ,第7步：,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,213,29,,note_text,Place,放置,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,213,41,,, the cutout on the correct position,剪片，确保位置正确,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,222,14,,note_text,Repeat,重复,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,222,27,,, for all missing elements,这些步骤，补全所有元素,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,230,14,,note_text,Rotate,旋转,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,230,27,,, cutouts with ,剪片可按,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,230,48,,note_text,q/e,q/e,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,230,58,,, or by ,或,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,230,72,,note_text,scrolling,滚动滚轮,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,239,14,,,The game ,每完成一幅画，游戏就会,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,239,30,,note_text,autosaves,自动保存,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/canvas.lua,239,46,,, after completing a painting,进度,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已对照英文与相关操作含义校对，游戏内显示待验证
+src/workshop/canvas/count.lua,9,29,,display_text,0/3,0/3,保留原文,数字示例或动态数据占位，保留原样。
+src/workshop/catalog/close_up.lua,117,14,,,Step 2: ,第2步：,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,117,29,,note_text,Observe,观察,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,117,43,,, the notable elements,值得注意的元素,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,127,14,,,Press ,按,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,127,27,,note_text,A / D,A / D,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,127,39,,, to navigate or click the arrows,或点击箭头切换区域,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,136,14,,note_text,Scroll,滚动,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/close_up.lua,136,27,,, for more info about the painting,查看画作的更多信息,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/info.lua,21,51,,,The Lonely Mermaid,孤独的人鱼,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/info.lua,25,46,,,The Lonely Mermaid,孤独的人鱼,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/info.lua,29,40,,display_text,"$12,000,000.-","$12,000,000.-",保留原文,数字示例或动态数据占位，保留原样。
+src/workshop/catalog/info.lua,33,52,,display_text,1823,1823,保留原文,数字示例或动态数据占位，保留原样。
+src/workshop/catalog/info.lua,38,46,,,Jacque von Bruel,雅克·冯·布吕尔,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/info.lua,41,53,,,The best impressionist of his time.,他是当时最出色的印象派画家。,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/info.lua,44,51,,display_text,1928 - 1970,1928 - 1970,保留原文,数字示例或动态数据占位，保留原样。
+src/workshop/catalog/info.lua,73,22,,,Est. $,估价 $,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/pamphlet.lua,64,69,,,Operation Painting Recreation,画作重现大作战,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/pamphlet.lua,71,14,,,Step 1: ,第1步：,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/pamphlet.lua,71,29,,note_text,Click,点击,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/pamphlet.lua,71,41,,, on a picture,一张图片,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/read_more.lua,13,60,,,Read more,阅读更多,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/read_more.lua,50,49,,,Go back,返回,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/catalog/read_more.lua,52,49,,,Read more,阅读更多,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/newspaper/newspaper.lua,212,18,,,This is the end of the ,《,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,212,48,,,"Your Painting, Sir","Your Painting, Sir",保留原文,游戏英文标题保留原文。
+src/workshop/newspaper/newspaper.lua,212,73,,, demo!,》试玩版到此结束！,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,216,18,,,Sandbox mode,沙盒模式,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,216,37,,, is available on the main menu,可在主菜单进入,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,220,18,,,We would appreciate it if you fill out our ,欢迎填写我们的,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,220,68,,note_text,"feedback
+form",反馈表,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,229,22,,,You can still go back and do the ,你还可以回去完成,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,229,62,,,phone quests,电话任务,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,233,22,,,Good job on completing all the ,恭喜完成所有,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,233,60,,,phone quests,电话任务,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,257,14,,,Step 5: ,第5步：,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,257,29,,note_text,Search,搜索,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,257,42,,, the newspaper for similar looking elements,报纸中的相似元素,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收；为避免便条换行时标点出现在行首而调整语序
+src/workshop/newspaper/newspaper.lua,261,14,,,Reminder: you can ,提醒：可以,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,261,39,,note_text,click,点击,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,261,51,,, these notes for more info,便条了解更多信息,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,268,14,,,Step 6: ,第6步：,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,268,29,,note_text,Cut,剪下,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,268,39,,, it out of the newspaper,报纸上的物件,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,275,14,,,Hold the ,按住,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,275,30,,,left mouse button,鼠标左键,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,275,54,,, to create a cutout,制作剪片,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,283,14,,,Click the right mouse button to ,点击鼠标右键,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,283,53,,note_text,undo,撤销,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,284,13,,, the cutout,剪片,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,292,14,,,Step 7. Go back to the canvas,第7步：回到画布,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,300,14,,,Click the corners,点击角落,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,300,38,,, to browse the newspaper,浏览报纸,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,310,14,,,Check the ,在,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,310,31,,,gameplay settings,操作设置,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,310,55,,, for your playstyle,中调整玩法,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,317,14,,,Right click,右键点击,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,317,32,,, on pictures for ,图片，使用,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,317,56,,,Butler Vision,管家视界,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,326,14,,,"You can also flip pages using
+",也可以用以下按键翻页：,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/newspaper/newspaper.lua,326,52,,,shift + A or D,shift + A 或 D,已校对,初译；颜色分段和便条尺寸待游戏内复核。；已结合相邻片段逐句校对，便条排版待逐一验收
+src/workshop/quests/aliens/alien_monocle.lua,10,66,,,Alien Monocle 3000,外星单片镜3000,已校对,已对照英文及相邻界面语境校对；游戏内排版和交互仍待验证。
+src/workshop/workshop.lua,392,11,,,okay dragging to view,okay dragging to view,保留原文,开发日志，不显示给玩家。
+src/workshop/workshop.lua,413,11,,,Added the transition item,Added the transition item,保留原文,开发日志，不显示给玩家。

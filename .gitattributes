@@ -1,0 +1,2 @@
+# CSV cells contain exact multiline game text; keep their bytes unchanged on checkout.
+data/*.csv -text
